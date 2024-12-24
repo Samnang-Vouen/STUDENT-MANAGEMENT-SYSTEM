@@ -3,6 +3,8 @@
 #include <fstream>
 #include <sstream>
 #include <iomanip>
+#include <algorithm>
+#include "StylizedHeader.h"
 using namespace std;
 
 struct Student {
@@ -360,4 +362,230 @@ class LinkedList {
                 current = current->next;
             }
         }
+
+        // Add a new node to the list
+        void addNode(int id, const string& name, const string& gender, const string& dob, const string& phoneNum,
+                    const string& major, int year, const string& email) {
+            Student *newNode = new Student{id, name, gender, dob, phoneNum, major, year, email, true, NULL};
+            if (!head) {
+                head = newNode;
+            } else {
+                Student* temp = head;
+                while (temp->next) {
+                    temp = temp->next;
+                }
+                temp->next = newNode;
+            }
+        }
+
+        // Search by ID
+        Student* searchByID(int id) {
+            Student* temp = head;
+            while (temp) {
+                if (temp->id == id) {
+                    return temp;
+                }
+                temp = temp->next;
+            }
+            return nullptr;
+        }
+
+    // Search by name (substring match with multiple results)
+        void searchByName(const string& name) {
+            auto toLower = [](const string& str) {
+                string lowerStr = str;
+                std::transform(lowerStr.begin(), lowerStr.end(), lowerStr.begin(), ::tolower);
+                return lowerStr;
+            };
+
+            string lowerSearch = toLower(name);  
+            Student* temp = head;
+            bool found = false;
+
+            while (temp) {
+                string lowerName = toLower(temp->name);  
+                if (lowerName.find(lowerSearch) != string::npos) {  // Perform a case-insensitive substring search
+                    found = true;
+                    displayResult(temp);  // Display each match
+                }
+                temp = temp->next;
+            }
+
+            if (!found) {
+                setConsoleColor(7, 1);
+                cout << "\n\t\t======================================================== SEARCH RESULT ======================================================" << endl;
+                cout << "\t\t|                                                      No matching record found                                              |" << endl;
+                cout << "\t\t==============================================================================================================================" << endl;
+                resetConsoleColor();
+            }
+        }
+
+        // Display a single node's details
+        void displayResult(Student* node) {
+            static bool headerPrinted = false;  
+
+            if (node) {
+                // Print the header only once
+                if (!headerPrinted) {
+                    cout << "\n\t=============================================================================== SEARCH RESULT =================================================================" << endl;
+                    cout << "\t| " << setw(5) << left << "ID"
+                        << "| " << setw(15) << left << "Name"
+                        << "| " << setw(10) << left << "Gender"
+                        << "| " << setw(18) << left << "Date of Birthday"
+                        << "| " << setw(18) << left << "Phone Number"
+                        << "| " << setw(35) << left << "Major"
+                        << "| " << setw(5) << left << "Year"
+                        << "| " << setw(35) << left << "Email" << " |" << endl;
+                    cout << "\t---------------------------------------------------------------------------------------------------------------------------------------------------------------" << endl;
+                    headerPrinted = true;  
+                }
+        
+                cout << "\t| " << setw(5) << left << node->id
+                    << "| " << setw(15) << left << node->name
+                    << "| " << setw(10) << left << node->gender
+                    << "| " << setw(18) << left << node->dob 
+                    << "| " << setw(18) << left << node->phoneNum 
+                    << "| " << setw(35) << left << node->major
+                    << "| " << setw(5) << left << node->year
+                    << "| " << setw(35) << left << node->email << " |" << endl;
+                cout << "\t===============================================================================================================================================================" << endl;
+            }
+        }
 };
+
+// Load data from the CSV file
+void loadData(LinkedList& list) {
+    string filename;
+    cout << "Enter the full path of the file to load: ";
+    getline(cin, filename);
+
+    ifstream file(filename);
+    if (!file.is_open()) {
+        cerr << "Error: Unable to open file " << filename << endl;
+        return;
+    }
+
+    string line, id, name, gender, dob, phoneNum, major, year, email;
+    getline(file, line); // Skip the header line
+
+    while (getline(file, line)) {
+        stringstream ss(line);
+
+        // Extract fields with ',' as the delimiter
+        if (getline(ss, id, ',') && getline(ss, name, ',') && getline(ss, gender, ',') &&
+            getline(ss, dob, ',') && getline(ss, phoneNum, ',') && getline(ss, major, ',') &&
+            getline(ss, year, ',') && getline(ss, email, ',')) {
+
+            try {
+                // Convert id and year to integers
+                int parsedId = stoi(id);
+                int parsedYear = stoi(year);
+
+                // Add a new node to the linked list
+                list.addNode(parsedId, name, gender, dob, phoneNum, major, parsedYear, email);
+
+            } catch (const invalid_argument& e) {
+                cerr << "Error: Invalid number in row: " << line << endl;
+            } catch (const out_of_range& e) {
+                cerr << "Error: Number out of range in row: " << line << endl;
+            }
+
+        } else {
+            cerr << "Error: Malformed line: " << line << endl;
+        }
+    }
+
+    file.close();
+    cout << "\n\t\t\t\t\t\t\t\t\tFile loaded successfully!" << endl;
+}
+
+// Display the search menu
+void searchMenu(LinkedList& list) {
+    char choice;
+    int consoleWidth = getConsoleWidth();
+
+    while (true) {
+        system("cls");
+        int consoleWidth = getConsoleWidth();
+        string headerLines[] = {
+            R"( _____ _____  ___  ______  _____  _   _      ___  ___ _____ _   _ _   _ )",
+            R"(/  ___|  ___|/ _ \ | ___ \/  __ \| | | |     |  \/  ||  ___| \ | | | | |)",
+            R"(\ `--.| |__ / /_\ \| |_/ /| /  \/| |_| |     | .  . || |__ |  \| | | | |)",
+            R"( `--. \  __||  _  ||    / | |    |  _  |     | |\/| ||  __|| . ` | | | |)",
+            R"(/\__/ / |___| | | || |\ \ | \__/\| | | |     | |  | || |___| |\  | |_| |)",
+            R"(\____/\____/\_| |_/\_| \_| \____/\_| |_/     \_|  |_/\____/\_| \_/\___/ )",                                                              
+        };
+
+
+        int headerHeight = sizeof(headerLines) / sizeof(headerLines[0]);
+        int startY = 2;
+        // Choose a color scheme for the header
+        WORD colors[] = {9, 11, 14, 13}; // Blue, Cyan, Bright White, Magenta
+
+        for (int i = 0; i < headerHeight; ++i) {
+            string scaledLine = headerLines[i];
+            int startX = (consoleWidth - scaledLine.length()) / 2; // Center horizontally
+
+            gotoxy(startX, startY + i);
+            setConsoleColor(colors[i % 4]); // Cycle through the colors
+            cout << scaledLine;
+        }
+        
+        resetColor();
+
+        int menuStartY = startY + headerHeight + 3;
+
+        gotoxy((consoleWidth - 40) / 2, menuStartY);
+        cout << "1. Load File" << endl;
+        gotoxy((consoleWidth) / 2, menuStartY);
+        cout << "2. Search by ID" << endl;
+        gotoxy((consoleWidth - 40) / 2, menuStartY + 2);
+        cout << "3. Search by Name" << endl;
+        gotoxy((consoleWidth) / 2, menuStartY + 2);
+        cout << "0. Exit" << endl;
+        resetColor();
+
+        choice = _getch();
+        system("cls");
+
+        switch (choice) {
+            case '1': {
+                gotoxy((consoleWidth - 50) / 2, menuStartY + 4);
+                loadData(list);
+                break;
+            }
+            case '2': {
+                int id;
+                gotoxy((consoleWidth - 50) / 2, menuStartY + 4);
+                cout << "Search by ID: ";
+                while (!(cin >> id)) {
+                    cin.clear();  // Clear input stream
+                    gotoxy((consoleWidth - 50) / 2, menuStartY + 6);
+                    cout << "Invalid ID. Please enter a valid numeric ID: ";
+                }
+                Student* result = list.searchByID(id);
+                system("cls");
+                list.displayResult(result);
+                break;
+            }
+            case '3': {
+                string name;
+                gotoxy((consoleWidth - 50) / 2, menuStartY + 5);
+                cout << "Search by Name: ";
+                cin.ignore();
+                getline(cin, name);
+                system("cls");
+                list.searchByName(name);  // Call the updated searchByName function
+                break;
+            }
+            case '0': {
+                return;
+            }
+            default:
+                gotoxy((consoleWidth - 50) / 2, menuStartY + 8);
+                cout << "Invalid choice! Please press a valid option (0-3)." << endl;
+        }
+        cout << "\nPress Enter to continue...";
+        _getch();  // Wait for any key to continue
+    }
+}
