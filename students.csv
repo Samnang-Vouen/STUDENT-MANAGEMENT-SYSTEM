@@ -1,0 +1,1002 @@
+id,name,gender,dob,phoneNum,major,year,email
+1,Chan Kim,Male,25-01-2005,053789787,Telecommunication and Networking,1,chan.kim@student.cadt.edu.kh
+2,Olivia Taylor,Male,04-02-2005,086346895,Digital Business,1,olivia.taylor@student.cadt.edu.kh
+3,Sophia Jones,Female,23-02-2005,037772662,Digital Business,1,sophia.jones@student.cadt.edu.kh
+4,Chan Chea,Female,22-04-2005,081861689,Digital Business,1,chan.chea@student.cadt.edu.kh
+5,Srey San,Female,12-06-2005,024751542,Telecommunication and Networking,1,srey.san@student.cadt.edu.kh
+6,Ava Brown,Male,13-10-2005,089784696,Telecommunication and Networking,1,ava.brown@student.cadt.edu.kh
+7,Chanda Kim,Female,02-04-2005,077559493,Telecommunication and Networking,1,chanda.kim@student.cadt.edu.kh
+8,Bopha Chea,Male,30-04-2005,037275384,Telecommunication and Networking,1,bopha.chea@student.cadt.edu.kh
+9,Bopha Ly,Male,18-03-2006,054752121,Telecommunication and Networking,1,bopha.ly@student.cadt.edu.kh
+10,David Davis,Male,23-08-2005,089349199,Telecommunication and Networking,1,david.davis@student.cadt.edu.kh
+11,Raksmey Pheng,Male,25-03-2006,014895555,Telecommunication and Networking,1,raksmey.pheng@student.cadt.edu.kh
+12,Olivia Davis,Female,11-04-2005,077669173,Telecommunication and Networking,1,olivia.davis@student.cadt.edu.kh
+13,Sophia Williams,Female,22-06-2005,068687714,Digital Business,1,sophia.williams@student.cadt.edu.kh
+14,William Taylor,Female,31-10-2005,025914664,Digital Business,1,william.taylor@student.cadt.edu.kh
+15,Michael Miller,Female,27-05-2005,089747292,Digital Business,1,michael.miller@student.cadt.edu.kh
+16,Ava Smith,Male,03-06-2005,094161327,Digital Business,1,ava.smith@student.cadt.edu.kh
+17,Chan Chea,Male,10-08-2006,025971398,Computer Science,1,chan.chea@student.cadt.edu.kh
+18,Vann Chea,Male,23-03-2006,032234675,Digital Business,1,vann.chea@student.cadt.edu.kh
+19,Ava Williams,Female,07-01-2005,058394168,Telecommunication and Networking,1,ava.williams@student.cadt.edu.kh
+20,Mony Pheng,Male,01-06-2005,091551372,Telecommunication and Networking,1,mony.pheng@student.cadt.edu.kh
+21,Visal Nhim,Male,28-08-2006,043223436,Telecommunication and Networking,1,visal.nhim@student.cadt.edu.kh
+22,David Jones,Male,26-05-2005,087264915,Computer Science,1,david.jones@student.cadt.edu.kh
+23,Mony Chea,Female,18-07-2006,068147511,Computer Science,1,mony.chea@student.cadt.edu.kh
+24,Sok Nhim,Male,02-01-2005,023681945,Telecommunication and Networking,1,sok.nhim@student.cadt.edu.kh
+25,Bopha Kim,Male,18-07-2005,094334629,Digital Business,1,bopha.kim@student.cadt.edu.kh
+26,Mony San,Male,26-01-2005,046944773,Digital Business,1,mony.san@student.cadt.edu.kh
+27,Srey Kim,Male,11-12-2005,034464474,Computer Science,1,srey.kim@student.cadt.edu.kh
+28,James Johnson,Female,14-04-2005,041257367,Computer Science,1,james.johnson@student.cadt.edu.kh
+29,John Wilson,Female,25-01-2006,084631988,Digital Business,1,john.wilson@student.cadt.edu.kh
+30,James Brown,Female,02-11-2006,048514417,Telecommunication and Networking,1,james.brown@student.cadt.edu.kh
+31,John Jones,Male,28-10-2006,097959272,Telecommunication and Networking,1,john.jones@student.cadt.edu.kh
+32,Emily Davis,Male,14-12-2006,089914956,Computer Science,1,emily.davis@student.cadt.edu.kh
+33,David Wilson,Female,25-04-2005,083168482,Computer Science,1,david.wilson@student.cadt.edu.kh
+34,William Williams,Female,25-04-2006,092329612,Digital Business,1,william.williams@student.cadt.edu.kh
+35,Ava Miller,Female,07-09-2006,059518499,Computer Science,1,ava.miller@student.cadt.edu.kh
+36,Vann Kim,Male,25-11-2005,021212953,Computer Science,1,vann.kim@student.cadt.edu.kh
+37,Olivia Moore,Male,03-07-2005,018127945,Telecommunication and Networking,1,olivia.moore@student.cadt.edu.kh
+38,Bopha Heng,Male,19-06-2005,034419544,Digital Business,1,bopha.heng@student.cadt.edu.kh
+39,Michael Taylor,Male,17-11-2005,026413613,Telecommunication and Networking,1,michael.taylor@student.cadt.edu.kh
+40,Sophia Brown,Male,01-08-2006,098167869,Telecommunication and Networking,1,sophia.brown@student.cadt.edu.kh
+41,James Miller,Female,01-12-2005,019726347,Digital Business,1,james.miller@student.cadt.edu.kh
+42,Mony Nhim,Male,15-07-2005,079561138,Digital Business,1,mony.nhim@student.cadt.edu.kh
+43,Chan Pheng,Female,21-08-2005,031587587,Telecommunication and Networking,1,chan.pheng@student.cadt.edu.kh
+44,Chanda Chea,Male,27-06-2006,047568378,Digital Business,1,chanda.chea@student.cadt.edu.kh
+45,Vann Chea,Male,26-09-2006,069626543,Telecommunication and Networking,1,vann.chea@student.cadt.edu.kh
+46,William Brown,Female,31-05-2006,017834884,Digital Business,1,william.brown@student.cadt.edu.kh
+47,William Brown,Female,25-09-2005,041881546,Digital Business,1,william.brown@student.cadt.edu.kh
+48,James Wilson,Female,22-11-2006,065541818,Telecommunication and Networking,1,james.wilson@student.cadt.edu.kh
+49,Isabella Brown,Male,24-10-2005,068176159,Telecommunication and Networking,1,isabella.brown@student.cadt.edu.kh
+50,Raksmey Pheng,Male,04-12-2006,035842877,Digital Business,1,raksmey.pheng@student.cadt.edu.kh
+51,Michael Wilson,Female,10-04-2006,071999971,Digital Business,1,michael.wilson@student.cadt.edu.kh
+52,Chan San,Male,03-09-2006,014878262,Computer Science,1,chan.san@student.cadt.edu.kh
+53,David Miller,Female,02-02-2005,072995529,Computer Science,1,david.miller@student.cadt.edu.kh
+54,David Brown,Male,05-09-2006,063519761,Telecommunication and Networking,1,david.brown@student.cadt.edu.kh
+55,Dara Pheng,Male,21-06-2006,082228924,Digital Business,1,dara.pheng@student.cadt.edu.kh
+56,Sok Nhim,Male,23-10-2006,071325224,Digital Business,1,sok.nhim@student.cadt.edu.kh
+57,Sok Ly,Male,25-02-2005,086873637,Telecommunication and Networking,1,sok.ly@student.cadt.edu.kh
+58,Michael Brown,Male,03-09-2005,059718525,Telecommunication and Networking,1,michael.brown@student.cadt.edu.kh
+59,Sok Ly,Male,19-08-2005,091665419,Computer Science,1,sok.ly@student.cadt.edu.kh
+60,Chanda Rith,Female,09-07-2006,033476658,Computer Science,1,chanda.rith@student.cadt.edu.kh
+61,John Davis,Female,05-10-2005,015515668,Telecommunication and Networking,1,john.davis@student.cadt.edu.kh
+62,Sok Chea,Male,28-08-2005,076581329,Telecommunication and Networking,1,sok.chea@student.cadt.edu.kh
+63,Isabella Wilson,Male,03-05-2006,028489992,Digital Business,1,isabella.wilson@student.cadt.edu.kh
+64,Visal Lim,Female,17-11-2005,081811111,Computer Science,1,visal.lim@student.cadt.edu.kh
+65,James Wilson,Male,07-06-2006,083964438,Computer Science,1,james.wilson@student.cadt.edu.kh
+66,Ava Miller,Female,24-05-2006,067362212,Telecommunication and Networking,1,ava.miller@student.cadt.edu.kh
+67,Isabella Brown,Male,19-06-2005,077724746,Digital Business,1,isabella.brown@student.cadt.edu.kh
+68,John Miller,Female,18-05-2005,057145922,Digital Business,1,john.miller@student.cadt.edu.kh
+69,Dara Chea,Male,05-04-2005,035544927,Computer Science,1,dara.chea@student.cadt.edu.kh
+70,Chan Lim,Female,18-11-2006,065457341,Computer Science,1,chan.lim@student.cadt.edu.kh
+71,Srey Pheng,Male,06-05-2005,032951686,Telecommunication and Networking,1,srey.pheng@student.cadt.edu.kh
+72,William Davis,Male,26-06-2005,066967693,Digital Business,1,william.davis@student.cadt.edu.kh
+73,Dara Kim,Male,16-01-2005,094284725,Computer Science,1,dara.kim@student.cadt.edu.kh
+74,John Jones,Female,20-01-2006,065799254,Computer Science,1,john.jones@student.cadt.edu.kh
+75,Sok Rith,Female,12-08-2005,026987554,Digital Business,1,sok.rith@student.cadt.edu.kh
+76,Dara Kim,Female,24-08-2005,042166967,Computer Science,1,dara.kim@student.cadt.edu.kh
+77,William Jones,Female,13-09-2005,052346656,Computer Science,1,william.jones@student.cadt.edu.kh
+78,Raksmey San,Male,12-04-2005,031893539,Telecommunication and Networking,1,raksmey.san@student.cadt.edu.kh
+79,Dara San,Female,07-04-2006,083214419,Computer Science,1,dara.san@student.cadt.edu.kh
+80,Vann Nhim,Male,13-03-2006,097697544,Computer Science,1,vann.nhim@student.cadt.edu.kh
+81,Emily Brown,Male,02-10-2005,086819367,Telecommunication and Networking,1,emily.brown@student.cadt.edu.kh
+82,Chanda Ly,Male,02-01-2005,045513139,Computer Science,1,chanda.ly@student.cadt.edu.kh
+83,Sok San,Male,18-05-2005,045878263,Telecommunication and Networking,1,sok.san@student.cadt.edu.kh
+84,Raksmey Ly,Male,20-04-2005,075255711,Digital Business,1,raksmey.ly@student.cadt.edu.kh
+85,Chanda San,Female,19-03-2005,037864286,Digital Business,1,chanda.san@student.cadt.edu.kh
+86,Sok Chea,Male,07-10-2006,071363376,Digital Business,1,sok.chea@student.cadt.edu.kh
+87,David Williams,Female,27-11-2006,098343568,Computer Science,1,david.williams@student.cadt.edu.kh
+88,Chanda Ly,Female,27-04-2005,094789265,Digital Business,1,chanda.ly@student.cadt.edu.kh
+89,Mony San,Female,28-12-2005,094196234,Computer Science,1,mony.san@student.cadt.edu.kh
+90,John Wilson,Male,20-06-2005,015535885,Telecommunication and Networking,1,john.wilson@student.cadt.edu.kh
+91,Chan San,Female,29-12-2006,085988636,Telecommunication and Networking,1,chan.san@student.cadt.edu.kh
+92,Isabella Jones,Female,21-06-2005,057145414,Digital Business,1,isabella.jones@student.cadt.edu.kh
+93,Michael Davis,Female,07-07-2006,092343335,Telecommunication and Networking,1,michael.davis@student.cadt.edu.kh
+94,Visal Lim,Female,05-12-2006,037519291,Computer Science,1,visal.lim@student.cadt.edu.kh
+95,Visal Chea,Male,15-11-2005,056338333,Telecommunication and Networking,1,visal.chea@student.cadt.edu.kh
+96,Dara Nhim,Female,19-07-2006,094727859,Computer Science,1,dara.nhim@student.cadt.edu.kh
+97,Raksmey Rith,Female,24-08-2005,033814692,Digital Business,1,raksmey.rith@student.cadt.edu.kh
+98,Isabella Smith,Male,15-06-2005,023221251,Computer Science,1,isabella.smith@student.cadt.edu.kh
+99,Ava Johnson,Female,03-02-2005,076956437,Digital Business,1,ava.johnson@student.cadt.edu.kh
+100,Visal Khiev,Female,27-02-2006,036297262,Computer Science,1,visal.khiev@student.cadt.edu.kh
+101,Chanda Heng,Male,19-02-2005,026336683,Digital Business,1,chanda.heng@student.cadt.edu.kh
+102,David Smith,Female,19-07-2006,028283227,Computer Science,1,david.smith@student.cadt.edu.kh
+103,Olivia Davis,Male,07-10-2006,062334434,Digital Business,1,olivia.davis@student.cadt.edu.kh
+104,Bopha Chea,Female,08-10-2006,093656468,Digital Business,1,bopha.chea@student.cadt.edu.kh
+105,John Williams,Male,10-06-2006,085513153,Computer Science,1,john.williams@student.cadt.edu.kh
+106,Dara Ly,Male,17-10-2005,048773953,Digital Business,1,dara.ly@student.cadt.edu.kh
+107,Isabella Jones,Male,08-06-2005,087444355,Telecommunication and Networking,1,isabella.jones@student.cadt.edu.kh
+108,David Taylor,Female,21-10-2006,032198439,Telecommunication and Networking,1,david.taylor@student.cadt.edu.kh
+109,Sophia Miller,Male,27-08-2006,043872845,Telecommunication and Networking,1,sophia.miller@student.cadt.edu.kh
+110,Bopha Pheng,Female,30-07-2006,018989145,Telecommunication and Networking,1,bopha.pheng@student.cadt.edu.kh
+111,Ava Taylor,Female,12-07-2005,076456192,Computer Science,1,ava.taylor@student.cadt.edu.kh
+112,Dara Ly,Male,11-01-2005,056549396,Digital Business,1,dara.ly@student.cadt.edu.kh
+113,Isabella Wilson,Male,04-04-2006,085711936,Digital Business,1,isabella.wilson@student.cadt.edu.kh
+114,Michael Taylor,Female,22-01-2005,053194773,Computer Science,1,michael.taylor@student.cadt.edu.kh
+115,Raksmey Kim,Female,07-03-2005,021925735,Computer Science,1,raksmey.kim@student.cadt.edu.kh
+116,Olivia Miller,Male,20-01-2006,022374412,Computer Science,1,olivia.miller@student.cadt.edu.kh
+117,Chanda Ly,Female,30-07-2005,074926741,Telecommunication and Networking,1,chanda.ly@student.cadt.edu.kh
+118,Raksmey Pheng,Female,10-01-2005,043747531,Telecommunication and Networking,1,raksmey.pheng@student.cadt.edu.kh
+119,Chanda San,Female,22-05-2005,089496412,Computer Science,1,chanda.san@student.cadt.edu.kh
+120,William Moore,Female,02-09-2005,026795245,Digital Business,1,william.moore@student.cadt.edu.kh
+121,Raksmey San,Male,09-02-2005,094329743,Telecommunication and Networking,1,raksmey.san@student.cadt.edu.kh
+122,Isabella Moore,Male,27-09-2006,091282317,Computer Science,1,isabella.moore@student.cadt.edu.kh
+123,Mony Heng,Male,14-02-2006,044345771,Telecommunication and Networking,1,mony.heng@student.cadt.edu.kh
+124,Sok Heng,Female,05-04-2006,016146968,Computer Science,1,sok.heng@student.cadt.edu.kh
+125,David Wilson,Male,31-08-2005,049435938,Computer Science,1,david.wilson@student.cadt.edu.kh
+126,William Miller,Male,23-03-2005,058389745,Digital Business,1,william.miller@student.cadt.edu.kh
+127,James Taylor,Male,17-11-2005,018552638,Computer Science,1,james.taylor@student.cadt.edu.kh
+128,Isabella Moore,Male,25-12-2006,068425417,Computer Science,1,isabella.moore@student.cadt.edu.kh
+129,Sophia Johnson,Female,09-08-2006,055217243,Telecommunication and Networking,1,sophia.johnson@student.cadt.edu.kh
+130,Mony Ly,Male,20-12-2005,051224317,Digital Business,1,mony.ly@student.cadt.edu.kh
+131,Sophia Davis,Female,09-04-2005,069526767,Computer Science,1,sophia.davis@student.cadt.edu.kh
+132,Mony Nhim,Male,01-05-2005,085754939,Telecommunication and Networking,1,mony.nhim@student.cadt.edu.kh
+133,Chan Ly,Male,19-10-2005,034758821,Telecommunication and Networking,1,chan.ly@student.cadt.edu.kh
+134,Isabella Miller,Female,09-08-2006,034141467,Computer Science,1,isabella.miller@student.cadt.edu.kh
+135,Vann San,Male,14-09-2005,093517363,Telecommunication and Networking,1,vann.san@student.cadt.edu.kh
+136,Michael Miller,Female,14-05-2005,013595835,Digital Business,1,michael.miller@student.cadt.edu.kh
+137,Chan Heng,Female,01-09-2005,091967941,Computer Science,1,chan.heng@student.cadt.edu.kh
+138,Visal Lim,Male,23-04-2006,023461649,Telecommunication and Networking,1,visal.lim@student.cadt.edu.kh
+139,Chanda Kim,Male,16-06-2005,055921146,Computer Science,1,chanda.kim@student.cadt.edu.kh
+140,Raksmey Heng,Male,13-06-2005,035592648,Telecommunication and Networking,1,raksmey.heng@student.cadt.edu.kh
+141,Sok Chea,Female,22-10-2006,096731393,Computer Science,1,sok.chea@student.cadt.edu.kh
+142,Sophia Smith,Male,03-02-2005,049327832,Computer Science,1,sophia.smith@student.cadt.edu.kh
+143,Srey Heng,Male,21-06-2005,057871761,Telecommunication and Networking,1,srey.heng@student.cadt.edu.kh
+144,Dara Kim,Male,25-03-2006,057639735,Digital Business,1,dara.kim@student.cadt.edu.kh
+145,Vann Pheng,Female,26-09-2006,043547971,Computer Science,1,vann.pheng@student.cadt.edu.kh
+146,Vann Kim,Male,30-08-2005,024439919,Telecommunication and Networking,1,vann.kim@student.cadt.edu.kh
+147,Sophia Wilson,Female,28-11-2005,012776723,Digital Business,1,sophia.wilson@student.cadt.edu.kh
+148,Srey Kim,Female,10-09-2006,029837864,Digital Business,1,srey.kim@student.cadt.edu.kh
+149,Visal Nhim,Female,12-10-2006,084878778,Computer Science,1,visal.nhim@student.cadt.edu.kh
+150,Mony Chea,Female,26-01-2005,045345669,Telecommunication and Networking,1,mony.chea@student.cadt.edu.kh
+151,Sophia Miller,Female,02-12-2005,018126193,Digital Business,1,sophia.miller@student.cadt.edu.kh
+152,Sok Ly,Female,19-03-2005,069884732,Digital Business,1,sok.ly@student.cadt.edu.kh
+153,David Wilson,Male,11-07-2005,019556736,Computer Science,1,david.wilson@student.cadt.edu.kh
+154,Dara San,Male,14-09-2005,073422619,Telecommunication and Networking,1,dara.san@student.cadt.edu.kh
+155,Emily Taylor,Male,07-07-2006,012677815,Digital Business,1,emily.taylor@student.cadt.edu.kh
+156,Srey San,Female,05-12-2006,023172275,Digital Business,1,srey.san@student.cadt.edu.kh
+157,Emily Davis,Male,27-05-2006,081579684,Digital Business,1,emily.davis@student.cadt.edu.kh
+158,Mony Lim,Male,18-03-2006,027767323,Computer Science,1,mony.lim@student.cadt.edu.kh
+159,Chanda Pheng,Male,24-08-2005,049517669,Digital Business,1,chanda.pheng@student.cadt.edu.kh
+160,Raksmey Ly,Female,09-06-2005,027352616,Digital Business,1,raksmey.ly@student.cadt.edu.kh
+161,Dara Ly,Male,22-05-2006,038985833,Telecommunication and Networking,1,dara.ly@student.cadt.edu.kh
+162,John Brown,Male,27-12-2006,046583781,Telecommunication and Networking,1,john.brown@student.cadt.edu.kh
+163,David Williams,Female,16-01-2005,098532746,Telecommunication and Networking,1,david.williams@student.cadt.edu.kh
+164,Raksmey Kim,Male,14-03-2006,088778728,Telecommunication and Networking,1,raksmey.kim@student.cadt.edu.kh
+165,Visal Heng,Male,05-07-2005,095624982,Telecommunication and Networking,1,visal.heng@student.cadt.edu.kh
+166,Chanda Kim,Male,01-11-2006,049494876,Digital Business,1,chanda.kim@student.cadt.edu.kh
+167,Srey Khiev,Female,19-10-2005,061591713,Digital Business,1,srey.khiev@student.cadt.edu.kh
+168,Chanda Kim,Female,13-12-2005,046899982,Computer Science,1,chanda.kim@student.cadt.edu.kh
+169,Chanda Ly,Male,25-01-2005,087381127,Computer Science,1,chanda.ly@student.cadt.edu.kh
+170,John Davis,Female,01-05-2005,088893766,Computer Science,1,john.davis@student.cadt.edu.kh
+171,Bopha Lim,Male,11-03-2005,075637972,Telecommunication and Networking,1,bopha.lim@student.cadt.edu.kh
+172,John Johnson,Female,16-01-2005,077121271,Digital Business,1,john.johnson@student.cadt.edu.kh
+173,Srey Chea,Female,25-03-2005,058324247,Computer Science,1,srey.chea@student.cadt.edu.kh
+174,William Williams,Female,05-11-2005,027258752,Telecommunication and Networking,1,william.williams@student.cadt.edu.kh
+175,Chan Lim,Male,15-12-2006,049466356,Digital Business,1,chan.lim@student.cadt.edu.kh
+176,Ava Miller,Female,13-12-2006,071924199,Computer Science,1,ava.miller@student.cadt.edu.kh
+177,James Williams,Male,25-11-2006,088784156,Digital Business,1,james.williams@student.cadt.edu.kh
+178,Emily Taylor,Male,25-10-2005,059998954,Telecommunication and Networking,1,emily.taylor@student.cadt.edu.kh
+179,Vann Nhim,Male,29-12-2005,055417289,Computer Science,1,vann.nhim@student.cadt.edu.kh
+180,Michael Johnson,Male,04-04-2006,097937585,Telecommunication and Networking,1,michael.johnson@student.cadt.edu.kh
+181,Emily Jones,Male,04-08-2006,035818891,Digital Business,1,emily.jones@student.cadt.edu.kh
+182,John Moore,Male,29-01-2006,081614667,Computer Science,1,john.moore@student.cadt.edu.kh
+183,Bopha Khiev,Male,11-02-2005,076895949,Telecommunication and Networking,1,bopha.khiev@student.cadt.edu.kh
+184,Ava Williams,Male,20-02-2006,024216386,Telecommunication and Networking,1,ava.williams@student.cadt.edu.kh
+185,Srey Nhim,Female,02-03-2005,039256499,Digital Business,1,srey.nhim@student.cadt.edu.kh
+186,Raksmey Lim,Female,21-10-2006,026967867,Telecommunication and Networking,1,raksmey.lim@student.cadt.edu.kh
+187,Isabella Davis,Male,16-12-2005,052431575,Digital Business,1,isabella.davis@student.cadt.edu.kh
+188,Sok Pheng,Male,13-04-2006,012646281,Computer Science,1,sok.pheng@student.cadt.edu.kh
+189,Vann Ly,Female,15-10-2005,082673293,Telecommunication and Networking,1,vann.ly@student.cadt.edu.kh
+190,Emily Williams,Male,15-09-2005,081326757,Telecommunication and Networking,1,emily.williams@student.cadt.edu.kh
+191,Emily Jones,Male,29-08-2005,099769721,Digital Business,1,emily.jones@student.cadt.edu.kh
+192,Vann Heng,Female,03-06-2005,035166919,Digital Business,1,vann.heng@student.cadt.edu.kh
+193,David Davis,Male,14-10-2006,054571455,Telecommunication and Networking,1,david.davis@student.cadt.edu.kh
+194,Raksmey Kim,Male,09-08-2006,015658574,Digital Business,1,raksmey.kim@student.cadt.edu.kh
+195,Ava Moore,Female,12-01-2005,065629436,Digital Business,1,ava.moore@student.cadt.edu.kh
+196,Chanda Pheng,Male,24-06-2005,052595634,Telecommunication and Networking,1,chanda.pheng@student.cadt.edu.kh
+197,Olivia Smith,Female,03-05-2005,016547264,Telecommunication and Networking,1,olivia.smith@student.cadt.edu.kh
+198,Michael Williams,Male,24-03-2006,016477844,Digital Business,1,michael.williams@student.cadt.edu.kh
+199,Bopha Rith,Female,11-06-2006,057312419,Computer Science,1,bopha.rith@student.cadt.edu.kh
+200,William Wilson,Female,02-11-2005,034213555,Telecommunication and Networking,1,william.wilson@student.cadt.edu.kh
+201,William Moore,Male,03-02-2005,038765882,Telecommunication and Networking,1,william.moore@student.cadt.edu.kh
+202,Emily Williams,Male,29-08-2006,092447816,Telecommunication and Networking,1,emily.williams@student.cadt.edu.kh
+203,Srey Kim,Male,24-09-2005,057448324,Computer Science,1,srey.kim@student.cadt.edu.kh
+204,John Davis,Female,26-11-2006,015758425,Computer Science,1,john.davis@student.cadt.edu.kh
+205,William Moore,Male,13-01-2005,079649255,Computer Science,1,william.moore@student.cadt.edu.kh
+206,Bopha Rith,Male,06-10-2006,047548958,Telecommunication and Networking,1,bopha.rith@student.cadt.edu.kh
+207,Chanda Ly,Male,30-12-2006,091147612,Computer Science,1,chanda.ly@student.cadt.edu.kh
+208,Chan Rith,Female,04-08-2006,065372752,Telecommunication and Networking,1,chan.rith@student.cadt.edu.kh
+209,Chan Nhim,Female,23-11-2005,073388316,Computer Science,1,chan.nhim@student.cadt.edu.kh
+210,Vann Khiev,Male,04-03-2006,086155788,Computer Science,1,vann.khiev@student.cadt.edu.kh
+211,Olivia Smith,Male,15-09-2006,076859246,Telecommunication and Networking,1,olivia.smith@student.cadt.edu.kh
+212,William Johnson,Male,07-04-2006,047811516,Digital Business,1,william.johnson@student.cadt.edu.kh
+213,Srey Khiev,Female,06-07-2005,039154115,Digital Business,1,srey.khiev@student.cadt.edu.kh
+214,Srey Kim,Male,05-01-2005,055497394,Digital Business,1,srey.kim@student.cadt.edu.kh
+215,John Jones,Male,02-08-2006,015362953,Digital Business,1,john.jones@student.cadt.edu.kh
+216,Emily Miller,Female,24-01-2006,084449511,Computer Science,1,emily.miller@student.cadt.edu.kh
+217,Sok Heng,Male,04-11-2006,094413554,Computer Science,1,sok.heng@student.cadt.edu.kh
+218,Dara Rith,Male,27-01-2005,042167453,Telecommunication and Networking,1,dara.rith@student.cadt.edu.kh
+219,Dara Heng,Male,16-04-2006,037879973,Telecommunication and Networking,1,dara.heng@student.cadt.edu.kh
+220,Olivia Moore,Male,08-06-2005,014563418,Digital Business,1,olivia.moore@student.cadt.edu.kh
+221,Chanda Ly,Male,29-11-2006,052692167,Computer Science,1,chanda.ly@student.cadt.edu.kh
+222,Visal Rith,Female,25-09-2005,051224791,Telecommunication and Networking,1,visal.rith@student.cadt.edu.kh
+223,David Jones,Male,10-10-2005,095128941,Telecommunication and Networking,1,david.jones@student.cadt.edu.kh
+224,Dara Lim,Female,10-03-2006,011298583,Digital Business,1,dara.lim@student.cadt.edu.kh
+225,Sophia Johnson,Female,18-03-2006,018429173,Digital Business,1,sophia.johnson@student.cadt.edu.kh
+226,Michael Brown,Female,26-11-2006,096824175,Digital Business,1,michael.brown@student.cadt.edu.kh
+227,Raksmey Khiev,Male,12-10-2006,098867719,Computer Science,1,raksmey.khiev@student.cadt.edu.kh
+228,Ava Taylor,Male,04-02-2005,024265556,Digital Business,1,ava.taylor@student.cadt.edu.kh
+229,Bopha Rith,Male,12-07-2006,092536135,Computer Science,1,bopha.rith@student.cadt.edu.kh
+230,Isabella Johnson,Female,09-02-2005,029846293,Telecommunication and Networking,1,isabella.johnson@student.cadt.edu.kh
+231,John Wilson,Male,01-07-2005,071415444,Digital Business,1,john.wilson@student.cadt.edu.kh
+232,Visal Kim,Male,25-09-2006,036542228,Digital Business,1,visal.kim@student.cadt.edu.kh
+233,Vann Heng,Male,10-01-2006,058225512,Computer Science,1,vann.heng@student.cadt.edu.kh
+234,Chan Heng,Male,07-09-2006,081566363,Digital Business,1,chan.heng@student.cadt.edu.kh
+235,Bopha San,Female,18-05-2005,063242319,Telecommunication and Networking,1,bopha.san@student.cadt.edu.kh
+236,Sophia Davis,Male,06-05-2006,066169439,Digital Business,1,sophia.davis@student.cadt.edu.kh
+237,Emily Wilson,Female,16-10-2006,093469392,Telecommunication and Networking,1,emily.wilson@student.cadt.edu.kh
+238,Emily Johnson,Male,21-11-2006,042145915,Computer Science,1,emily.johnson@student.cadt.edu.kh
+239,Srey Khiev,Female,15-11-2005,033982261,Computer Science,1,srey.khiev@student.cadt.edu.kh
+240,Vann Kim,Male,28-01-2005,049247451,Computer Science,1,vann.kim@student.cadt.edu.kh
+241,Srey Kim,Female,01-02-2006,017544429,Digital Business,1,srey.kim@student.cadt.edu.kh
+242,William Miller,Female,10-09-2006,066386888,Computer Science,1,william.miller@student.cadt.edu.kh
+243,Michael Davis,Male,22-03-2006,011294638,Digital Business,1,michael.davis@student.cadt.edu.kh
+244,Srey Rith,Female,03-03-2006,073461569,Computer Science,1,srey.rith@student.cadt.edu.kh
+245,John Johnson,Female,10-11-2005,075849467,Computer Science,1,john.johnson@student.cadt.edu.kh
+246,Srey Chea,Male,10-05-2005,065541365,Computer Science,1,srey.chea@student.cadt.edu.kh
+247,Chanda San,Female,04-08-2006,018262556,Digital Business,1,chanda.san@student.cadt.edu.kh
+248,Sok Pheng,Male,13-10-2005,093416317,Digital Business,1,sok.pheng@student.cadt.edu.kh
+249,David Wilson,Male,22-09-2006,015679212,Telecommunication and Networking,1,david.wilson@student.cadt.edu.kh
+250,Raksmey Rith,Female,12-09-2005,094775973,Telecommunication and Networking,1,raksmey.rith@student.cadt.edu.kh
+251,Raksmey Chea,Male,30-03-2005,056634388,Computer Science,1,raksmey.chea@student.cadt.edu.kh
+252,John Taylor,Female,24-07-2006,018165312,Digital Business,1,john.taylor@student.cadt.edu.kh
+253,Raksmey Kim,Male,05-03-2006,031934648,Digital Business,1,raksmey.kim@student.cadt.edu.kh
+254,Raksmey Lim,Male,26-01-2005,046218994,Digital Business,1,raksmey.lim@student.cadt.edu.kh
+255,Mony Khiev,Male,23-10-2006,079812694,Computer Science,1,mony.khiev@student.cadt.edu.kh
+256,Olivia Wilson,Male,05-01-2006,017277846,Digital Business,1,olivia.wilson@student.cadt.edu.kh
+257,Sok Lim,Male,22-11-2005,086717533,Computer Science,1,sok.lim@student.cadt.edu.kh
+258,Chan Kim,Male,27-01-2005,033263324,Digital Business,1,chan.kim@student.cadt.edu.kh
+259,Emily Moore,Female,20-09-2006,033684177,Digital Business,1,emily.moore@student.cadt.edu.kh
+260,Michael Moore,Female,23-07-2005,036213271,Telecommunication and Networking,1,michael.moore@student.cadt.edu.kh
+261,Ava Moore,Female,12-10-2006,092778517,Digital Business,1,ava.moore@student.cadt.edu.kh
+262,Isabella Wilson,Male,26-12-2006,068248486,Computer Science,1,isabella.wilson@student.cadt.edu.kh
+263,Chanda Khiev,Male,12-12-2006,074534483,Telecommunication and Networking,1,chanda.khiev@student.cadt.edu.kh
+264,Dara Ly,Male,14-05-2006,042994162,Computer Science,1,dara.ly@student.cadt.edu.kh
+265,Visal Khiev,Female,20-01-2005,064168636,Telecommunication and Networking,1,visal.khiev@student.cadt.edu.kh
+266,Visal Rith,Male,22-10-2006,058727863,Telecommunication and Networking,1,visal.rith@student.cadt.edu.kh
+267,Dara Heng,Male,30-10-2005,078556567,Telecommunication and Networking,1,dara.heng@student.cadt.edu.kh
+268,James Taylor,Female,12-03-2005,072149696,Computer Science,1,james.taylor@student.cadt.edu.kh
+269,Vann Nhim,Female,15-05-2005,055395118,Computer Science,1,vann.nhim@student.cadt.edu.kh
+270,Raksmey Lim,Female,13-09-2006,047524661,Digital Business,1,raksmey.lim@student.cadt.edu.kh
+271,Chan Nhim,Male,02-01-2005,079948643,Telecommunication and Networking,1,chan.nhim@student.cadt.edu.kh
+272,Vann Ly,Male,26-03-2006,017952198,Telecommunication and Networking,1,vann.ly@student.cadt.edu.kh
+273,Raksmey Ly,Male,14-06-2006,039312672,Digital Business,1,raksmey.ly@student.cadt.edu.kh
+274,Mony Kim,Male,31-12-2006,035421562,Computer Science,1,mony.kim@student.cadt.edu.kh
+275,Mony Heng,Female,01-03-2006,044584485,Telecommunication and Networking,1,mony.heng@student.cadt.edu.kh
+276,Bopha Khiev,Male,06-08-2005,082325853,Telecommunication and Networking,1,bopha.khiev@student.cadt.edu.kh
+277,Chanda Chea,Male,22-02-2006,091428597,Computer Science,1,chanda.chea@student.cadt.edu.kh
+278,Michael Smith,Male,14-05-2005,016264317,Telecommunication and Networking,1,michael.smith@student.cadt.edu.kh
+279,Emily Taylor,Male,10-10-2006,065731451,Computer Science,1,emily.taylor@student.cadt.edu.kh
+280,Michael Jones,Male,09-06-2006,018928357,Computer Science,1,michael.jones@student.cadt.edu.kh
+281,David Jones,Female,17-09-2006,033912427,Telecommunication and Networking,1,david.jones@student.cadt.edu.kh
+282,Chanda Nhim,Male,14-04-2006,042175719,Telecommunication and Networking,1,chanda.nhim@student.cadt.edu.kh
+283,James Jones,Male,16-09-2005,046631972,Telecommunication and Networking,1,james.jones@student.cadt.edu.kh
+284,William Smith,Male,14-08-2006,099437897,Computer Science,1,william.smith@student.cadt.edu.kh
+285,Vann Nhim,Male,29-12-2005,054556727,Computer Science,1,vann.nhim@student.cadt.edu.kh
+286,David Smith,Female,28-08-2005,098729687,Telecommunication and Networking,1,david.smith@student.cadt.edu.kh
+287,Sophia Moore,Female,10-03-2005,047476482,Telecommunication and Networking,1,sophia.moore@student.cadt.edu.kh
+288,Chan Khiev,Male,21-06-2005,017926523,Computer Science,1,chan.khiev@student.cadt.edu.kh
+289,John Taylor,Female,15-07-2005,095195785,Telecommunication and Networking,1,john.taylor@student.cadt.edu.kh
+290,Chan Khiev,Female,16-06-2006,027329318,Computer Science,1,chan.khiev@student.cadt.edu.kh
+291,Michael Taylor,Male,27-06-2006,069889293,Telecommunication and Networking,1,michael.taylor@student.cadt.edu.kh
+292,Chanda Chea,Female,27-09-2005,069394528,Telecommunication and Networking,1,chanda.chea@student.cadt.edu.kh
+293,William Wilson,Female,03-01-2005,094395425,Digital Business,1,william.wilson@student.cadt.edu.kh
+294,Ava Johnson,Female,23-05-2006,037942594,Computer Science,1,ava.johnson@student.cadt.edu.kh
+295,Sophia Miller,Female,17-05-2006,037838935,Telecommunication and Networking,1,sophia.miller@student.cadt.edu.kh
+296,Chan Rith,Female,18-01-2005,072625997,Digital Business,1,chan.rith@student.cadt.edu.kh
+297,David Moore,Female,10-12-2006,011828618,Digital Business,1,david.moore@student.cadt.edu.kh
+298,Isabella Miller,Female,29-05-2005,054223742,Digital Business,1,isabella.miller@student.cadt.edu.kh
+299,Raksmey Khiev,Female,30-10-2006,018848511,Digital Business,1,raksmey.khiev@student.cadt.edu.kh
+300,Olivia Moore,Male,03-07-2005,011775775,Computer Science,1,olivia.moore@student.cadt.edu.kh
+301,Mony Ly,Female,11-11-2003,091945997,Computer Science,2,mony.ly@student.cadt.edu.kh
+302,Raksmey Ly,Female,12-10-2002,058732979,Telecommunication and Networking,2,raksmey.ly@student.cadt.edu.kh
+303,Dara Chea,Male,24-06-2004,079791842,Telecommunication and Networking,2,dara.chea@student.cadt.edu.kh
+304,Vann Nhim,Male,21-01-2003,099245311,Computer Science,2,vann.nhim@student.cadt.edu.kh
+305,Mony Chea,Male,07-02-2001,021825856,Computer Science,2,mony.chea@student.cadt.edu.kh
+306,Mony San,Male,08-05-2002,016515652,Digital Business,2,mony.san@student.cadt.edu.kh
+307,Mony Nhim,Male,29-05-2002,042215711,Telecommunication and Networking,2,mony.nhim@student.cadt.edu.kh
+308,Raksmey Kim,Male,30-03-2002,095661446,Computer Science,2,raksmey.kim@student.cadt.edu.kh
+309,Mony Heng,Male,06-01-2004,092985518,Digital Business,2,mony.heng@student.cadt.edu.kh
+310,Vann Rith,Female,24-09-2004,076198639,Computer Science,2,vann.rith@student.cadt.edu.kh
+311,Chanda Heng,Male,11-04-2002,075541549,Digital Business,2,chanda.heng@student.cadt.edu.kh
+312,Bopha Kim,Male,19-02-2001,097442642,Digital Business,2,bopha.kim@student.cadt.edu.kh
+313,Visal Chea,Male,01-10-2003,065825867,Telecommunication and Networking,2,visal.chea@student.cadt.edu.kh
+314,Mony Pheng,Female,25-06-2001,075734655,Computer Science,2,mony.pheng@student.cadt.edu.kh
+315,Srey Khiev,Female,06-08-2002,052379287,Telecommunication and Networking,2,srey.khiev@student.cadt.edu.kh
+316,Sok Nhim,Male,06-11-2003,082885777,Digital Business,2,sok.nhim@student.cadt.edu.kh
+317,Mony Khiev,Female,22-10-2003,014869824,Computer Science,2,mony.khiev@student.cadt.edu.kh
+318,Chanda Chea,Male,19-12-2004,069334215,Digital Business,2,chanda.chea@student.cadt.edu.kh
+319,Srey Rith,Male,26-06-2004,066157579,Telecommunication and Networking,2,srey.rith@student.cadt.edu.kh
+320,Srey Rith,Female,05-12-2002,048499293,Digital Business,2,srey.rith@student.cadt.edu.kh
+321,Chan Kim,Male,31-12-2003,065512535,Digital Business,2,chan.kim@student.cadt.edu.kh
+322,Visal Nhim,Male,21-11-2004,093917824,Telecommunication and Networking,2,visal.nhim@student.cadt.edu.kh
+323,Chanda Khiev,Male,09-01-2001,088661243,Digital Business,2,chanda.khiev@student.cadt.edu.kh
+324,Bopha Khiev,Male,27-04-2004,024111238,Telecommunication and Networking,2,bopha.khiev@student.cadt.edu.kh
+325,Bopha Heng,Female,10-02-2001,067332315,Computer Science,2,bopha.heng@student.cadt.edu.kh
+326,Chan Rith,Male,18-07-2002,052837843,Telecommunication and Networking,2,chan.rith@student.cadt.edu.kh
+327,Visal Lim,Male,21-07-2004,089911115,Computer Science,2,visal.lim@student.cadt.edu.kh
+328,Sok Khiev,Male,27-08-2003,088255784,Telecommunication and Networking,2,sok.khiev@student.cadt.edu.kh
+329,Srey Khiev,Male,23-02-2003,059225116,Computer Science,2,srey.khiev@student.cadt.edu.kh
+330,Raksmey Lim,Male,15-12-2002,087644324,Telecommunication and Networking,2,raksmey.lim@student.cadt.edu.kh
+331,Dara Lim,Male,14-07-2004,062426669,Digital Business,2,dara.lim@student.cadt.edu.kh
+332,Srey Pheng,Female,01-01-2001,014389787,Telecommunication and Networking,2,srey.pheng@student.cadt.edu.kh
+333,Raksmey Ly,Male,26-04-2002,077621627,Telecommunication and Networking,2,raksmey.ly@student.cadt.edu.kh
+334,Mony Heng,Female,17-08-2002,011581515,Digital Business,2,mony.heng@student.cadt.edu.kh
+335,Vann Lim,Female,12-03-2003,056746489,Computer Science,2,vann.lim@student.cadt.edu.kh
+336,Visal Nhim,Female,29-08-2003,074224339,Computer Science,2,visal.nhim@student.cadt.edu.kh
+337,Raksmey Ly,Female,27-03-2001,066427133,Computer Science,2,raksmey.ly@student.cadt.edu.kh
+338,Vann Nhim,Female,17-04-2004,026851319,Telecommunication and Networking,2,vann.nhim@student.cadt.edu.kh
+339,Dara Pheng,Male,24-03-2003,051677751,Computer Science,2,dara.pheng@student.cadt.edu.kh
+340,Raksmey Khiev,Female,06-07-2004,094153786,Digital Business,2,raksmey.khiev@student.cadt.edu.kh
+341,Chan Lim,Female,21-03-2004,046887288,Digital Business,2,chan.lim@student.cadt.edu.kh
+342,Visal Heng,Male,17-09-2003,069428161,Computer Science,2,visal.heng@student.cadt.edu.kh
+343,Chan Pheng,Female,21-07-2004,026765341,Telecommunication and Networking,2,chan.pheng@student.cadt.edu.kh
+344,Chan Lim,Female,05-02-2004,019852987,Digital Business,2,chan.lim@student.cadt.edu.kh
+345,Chanda Nhim,Female,01-03-2002,052591152,Computer Science,2,chanda.nhim@student.cadt.edu.kh
+346,Raksmey Ly,Female,27-09-2004,086995161,Telecommunication and Networking,2,raksmey.ly@student.cadt.edu.kh
+347,Vann Nhim,Female,05-08-2004,051533264,Digital Business,2,vann.nhim@student.cadt.edu.kh
+348,Srey Khiev,Female,25-01-2003,021386828,Digital Business,2,srey.khiev@student.cadt.edu.kh
+349,Raksmey Rith,Male,28-03-2003,035988491,Computer Science,2,raksmey.rith@student.cadt.edu.kh
+350,Chan Khiev,Male,14-12-2002,026785377,Digital Business,2,chan.khiev@student.cadt.edu.kh
+351,Vann Heng,Female,17-02-2002,098655977,Digital Business,2,vann.heng@student.cadt.edu.kh
+352,Visal Nhim,Male,25-12-2004,092224346,Telecommunication and Networking,2,visal.nhim@student.cadt.edu.kh
+353,Mony Rith,Male,29-03-2002,075768889,Telecommunication and Networking,2,mony.rith@student.cadt.edu.kh
+354,Sok Chea,Male,10-09-2001,023457647,Digital Business,2,sok.chea@student.cadt.edu.kh
+355,Bopha Khiev,Male,05-06-2001,023355679,Telecommunication and Networking,2,bopha.khiev@student.cadt.edu.kh
+356,Sok Pheng,Male,10-10-2002,073949756,Telecommunication and Networking,2,sok.pheng@student.cadt.edu.kh
+357,Raksmey Heng,Female,23-01-2003,087157512,Telecommunication and Networking,2,raksmey.heng@student.cadt.edu.kh
+358,Bopha Pheng,Female,19-03-2004,017997671,Digital Business,2,bopha.pheng@student.cadt.edu.kh
+359,Bopha Lim,Female,04-10-2002,083673713,Digital Business,2,bopha.lim@student.cadt.edu.kh
+360,Raksmey Lim,Female,09-02-2003,068841965,Computer Science,2,raksmey.lim@student.cadt.edu.kh
+361,Bopha Nhim,Male,01-02-2001,054342859,Digital Business,2,bopha.nhim@student.cadt.edu.kh
+362,Srey Rith,Female,14-01-2004,043797528,Computer Science,2,srey.rith@student.cadt.edu.kh
+363,Chan Chea,Female,11-04-2002,066667878,Computer Science,2,chan.chea@student.cadt.edu.kh
+364,Chan Heng,Female,04-07-2002,056574545,Telecommunication and Networking,2,chan.heng@student.cadt.edu.kh
+365,Visal San,Female,18-06-2001,031485894,Digital Business,2,visal.san@student.cadt.edu.kh
+366,Vann Chea,Male,17-05-2001,082552376,Digital Business,2,vann.chea@student.cadt.edu.kh
+367,Dara Ly,Male,14-10-2001,092284683,Digital Business,2,dara.ly@student.cadt.edu.kh
+368,Chanda Khiev,Male,15-12-2004,028998583,Computer Science,2,chanda.khiev@student.cadt.edu.kh
+369,Visal Nhim,Female,22-05-2001,089395877,Telecommunication and Networking,2,visal.nhim@student.cadt.edu.kh
+370,Raksmey Chea,Male,31-12-2001,026385317,Telecommunication and Networking,2,raksmey.chea@student.cadt.edu.kh
+371,Raksmey Pheng,Male,20-11-2002,063886291,Computer Science,2,raksmey.pheng@student.cadt.edu.kh
+372,Chan Pheng,Male,13-09-2002,074759223,Digital Business,2,chan.pheng@student.cadt.edu.kh
+373,Chanda San,Male,08-08-2002,028372192,Digital Business,2,chanda.san@student.cadt.edu.kh
+374,Mony Heng,Female,14-11-2002,048479966,Digital Business,2,mony.heng@student.cadt.edu.kh
+375,Vann Lim,Male,09-10-2001,077357786,Digital Business,2,vann.lim@student.cadt.edu.kh
+376,Srey Ly,Male,04-12-2002,035928767,Digital Business,2,srey.ly@student.cadt.edu.kh
+377,Chanda Lim,Female,28-08-2001,019951724,Digital Business,2,chanda.lim@student.cadt.edu.kh
+378,Dara Chea,Male,24-04-2002,024742624,Computer Science,2,dara.chea@student.cadt.edu.kh
+379,Bopha Rith,Male,11-11-2002,071863456,Digital Business,2,bopha.rith@student.cadt.edu.kh
+380,Raksmey Lim,Male,18-10-2003,084112526,Digital Business,2,raksmey.lim@student.cadt.edu.kh
+381,Vann Lim,Female,10-10-2003,094271996,Digital Business,2,vann.lim@student.cadt.edu.kh
+382,Dara Nhim,Male,10-05-2001,055881815,Computer Science,2,dara.nhim@student.cadt.edu.kh
+383,Chan Rith,Female,10-09-2003,026978888,Digital Business,2,chan.rith@student.cadt.edu.kh
+384,Vann Lim,Female,09-04-2003,019441961,Telecommunication and Networking,2,vann.lim@student.cadt.edu.kh
+385,Visal Pheng,Female,27-02-2002,054898531,Computer Science,2,visal.pheng@student.cadt.edu.kh
+386,Chan San,Female,25-07-2002,055115582,Telecommunication and Networking,2,chan.san@student.cadt.edu.kh
+387,Bopha Lim,Female,15-01-2001,054245143,Digital Business,2,bopha.lim@student.cadt.edu.kh
+388,Dara Kim,Male,28-04-2001,061468684,Digital Business,2,dara.kim@student.cadt.edu.kh
+389,Chan Pheng,Male,15-02-2004,062343799,Digital Business,2,chan.pheng@student.cadt.edu.kh
+390,Sok Heng,Male,17-03-2002,021194585,Computer Science,2,sok.heng@student.cadt.edu.kh
+391,Vann Kim,Male,09-04-2001,051798722,Digital Business,2,vann.kim@student.cadt.edu.kh
+392,Srey Rith,Male,26-03-2004,042645648,Telecommunication and Networking,2,srey.rith@student.cadt.edu.kh
+393,Srey San,Female,06-10-2003,064763752,Computer Science,2,srey.san@student.cadt.edu.kh
+394,Sok Pheng,Female,28-02-2004,051434625,Telecommunication and Networking,2,sok.pheng@student.cadt.edu.kh
+395,Chanda Nhim,Female,21-01-2001,081712721,Digital Business,2,chanda.nhim@student.cadt.edu.kh
+396,Srey Chea,Male,26-02-2004,099658698,Computer Science,2,srey.chea@student.cadt.edu.kh
+397,Dara Nhim,Female,10-05-2001,094982325,Computer Science,2,dara.nhim@student.cadt.edu.kh
+398,Srey Heng,Male,07-09-2003,029213241,Digital Business,2,srey.heng@student.cadt.edu.kh
+399,Vann Pheng,Male,21-02-2003,044455285,Computer Science,2,vann.pheng@student.cadt.edu.kh
+400,Dara San,Male,03-05-2004,022973793,Telecommunication and Networking,2,dara.san@student.cadt.edu.kh
+401,Srey Ly,Male,05-09-2002,073737344,Computer Science,2,srey.ly@student.cadt.edu.kh
+402,Mony Rith,Female,07-04-2002,047982722,Telecommunication and Networking,2,mony.rith@student.cadt.edu.kh
+403,Dara Nhim,Female,08-11-2002,025922789,Digital Business,2,dara.nhim@student.cadt.edu.kh
+404,Chan Chea,Female,03-12-2004,088832196,Digital Business,2,chan.chea@student.cadt.edu.kh
+405,Bopha Kim,Female,07-05-2004,067843464,Telecommunication and Networking,2,bopha.kim@student.cadt.edu.kh
+406,Dara Khiev,Female,22-02-2001,075861739,Telecommunication and Networking,2,dara.khiev@student.cadt.edu.kh
+407,Chan Rith,Female,31-07-2002,054782115,Digital Business,2,chan.rith@student.cadt.edu.kh
+408,Sok Kim,Female,24-10-2002,042688784,Computer Science,2,sok.kim@student.cadt.edu.kh
+409,Dara Khiev,Female,09-02-2001,073965213,Telecommunication and Networking,2,dara.khiev@student.cadt.edu.kh
+410,Vann Rith,Male,20-10-2002,044636326,Telecommunication and Networking,2,vann.rith@student.cadt.edu.kh
+411,Visal Ly,Female,08-06-2001,049253448,Digital Business,2,visal.ly@student.cadt.edu.kh
+412,Dara Lim,Female,07-03-2003,026512772,Telecommunication and Networking,2,dara.lim@student.cadt.edu.kh
+413,Chan San,Male,10-10-2001,051184545,Digital Business,2,chan.san@student.cadt.edu.kh
+414,Chanda Chea,Female,01-07-2003,038127755,Telecommunication and Networking,2,chanda.chea@student.cadt.edu.kh
+415,Mony Ly,Female,19-07-2003,083784674,Telecommunication and Networking,2,mony.ly@student.cadt.edu.kh
+416,Chanda Nhim,Male,11-07-2001,087335139,Telecommunication and Networking,2,chanda.nhim@student.cadt.edu.kh
+417,Visal Khiev,Female,15-04-2003,095221738,Digital Business,2,visal.khiev@student.cadt.edu.kh
+418,Chanda Pheng,Male,10-02-2001,042686746,Digital Business,2,chanda.pheng@student.cadt.edu.kh
+419,Sok San,Male,25-03-2001,082381598,Digital Business,2,sok.san@student.cadt.edu.kh
+420,Bopha Nhim,Male,09-04-2003,076947636,Digital Business,2,bopha.nhim@student.cadt.edu.kh
+421,Chanda Heng,Male,18-12-2003,074314367,Computer Science,2,chanda.heng@student.cadt.edu.kh
+422,Vann Khiev,Male,10-01-2003,023646779,Digital Business,2,vann.khiev@student.cadt.edu.kh
+423,Raksmey Pheng,Male,07-01-2004,046923896,Digital Business,2,raksmey.pheng@student.cadt.edu.kh
+424,Dara Heng,Male,16-09-2001,073665634,Digital Business,2,dara.heng@student.cadt.edu.kh
+425,Chan Kim,Male,30-05-2001,061172174,Digital Business,2,chan.kim@student.cadt.edu.kh
+426,Raksmey Ly,Male,12-10-2001,078946771,Computer Science,2,raksmey.ly@student.cadt.edu.kh
+427,Srey Pheng,Male,30-01-2002,043512983,Computer Science,2,srey.pheng@student.cadt.edu.kh
+428,Bopha Khiev,Female,25-05-2001,067566831,Telecommunication and Networking,2,bopha.khiev@student.cadt.edu.kh
+429,Srey Khiev,Female,13-05-2004,053821567,Computer Science,2,srey.khiev@student.cadt.edu.kh
+430,Chanda Chea,Female,20-08-2004,048544179,Telecommunication and Networking,2,chanda.chea@student.cadt.edu.kh
+431,Raksmey Nhim,Male,14-06-2003,024653186,Telecommunication and Networking,2,raksmey.nhim@student.cadt.edu.kh
+432,Dara Rith,Male,30-06-2004,041199529,Digital Business,2,dara.rith@student.cadt.edu.kh
+433,Raksmey Khiev,Male,15-09-2003,067558477,Digital Business,2,raksmey.khiev@student.cadt.edu.kh
+434,Mony Lim,Male,15-03-2003,064285255,Telecommunication and Networking,2,mony.lim@student.cadt.edu.kh
+435,Srey Pheng,Female,30-05-2004,015618128,Digital Business,2,srey.pheng@student.cadt.edu.kh
+436,Srey Kim,Female,26-01-2003,074375331,Digital Business,2,srey.kim@student.cadt.edu.kh
+437,Sok San,Male,24-07-2002,042513682,Digital Business,2,sok.san@student.cadt.edu.kh
+438,Chan Nhim,Male,23-04-2001,015446935,Telecommunication and Networking,2,chan.nhim@student.cadt.edu.kh
+439,Chan Khiev,Male,04-03-2001,051478516,Digital Business,2,chan.khiev@student.cadt.edu.kh
+440,Visal Ly,Male,12-04-2003,094275341,Digital Business,2,visal.ly@student.cadt.edu.kh
+441,Dara Chea,Male,25-03-2002,072416119,Digital Business,2,dara.chea@student.cadt.edu.kh
+442,Raksmey Ly,Male,23-03-2001,081776513,Telecommunication and Networking,2,raksmey.ly@student.cadt.edu.kh
+443,Sok Rith,Male,24-06-2002,059667375,Computer Science,2,sok.rith@student.cadt.edu.kh
+444,Sok Heng,Male,13-05-2003,099146985,Computer Science,2,sok.heng@student.cadt.edu.kh
+445,Vann Pheng,Male,16-09-2002,092744814,Computer Science,2,vann.pheng@student.cadt.edu.kh
+446,Mony San,Female,09-06-2004,015555834,Telecommunication and Networking,2,mony.san@student.cadt.edu.kh
+447,Vann Lim,Male,01-12-2004,044958818,Telecommunication and Networking,2,vann.lim@student.cadt.edu.kh
+448,Srey Nhim,Female,21-03-2003,062293182,Computer Science,2,srey.nhim@student.cadt.edu.kh
+449,Sok Pheng,Male,14-10-2004,013358417,Digital Business,2,sok.pheng@student.cadt.edu.kh
+450,Sok Pheng,Female,23-02-2002,054267837,Telecommunication and Networking,2,sok.pheng@student.cadt.edu.kh
+451,Dara Kim,Male,28-02-2002,096899155,Computer Science,2,dara.kim@student.cadt.edu.kh
+452,Visal Kim,Male,13-03-2003,061791728,Computer Science,2,visal.kim@student.cadt.edu.kh
+453,Srey Nhim,Female,22-10-2002,081545622,Digital Business,2,srey.nhim@student.cadt.edu.kh
+454,Raksmey Pheng,Female,08-12-2004,087143694,Computer Science,2,raksmey.pheng@student.cadt.edu.kh
+455,Visal Khiev,Male,16-03-2002,069274195,Digital Business,2,visal.khiev@student.cadt.edu.kh
+456,Chan Khiev,Male,03-02-2003,062238845,Telecommunication and Networking,2,chan.khiev@student.cadt.edu.kh
+457,Mony Chea,Female,27-08-2002,073777889,Computer Science,2,mony.chea@student.cadt.edu.kh
+458,Visal Khiev,Male,30-04-2004,021888671,Telecommunication and Networking,2,visal.khiev@student.cadt.edu.kh
+459,Visal Rith,Male,12-04-2004,054524471,Telecommunication and Networking,2,visal.rith@student.cadt.edu.kh
+460,Chanda Kim,Male,24-10-2002,016231495,Digital Business,2,chanda.kim@student.cadt.edu.kh
+461,Visal Pheng,Female,08-11-2003,055152265,Telecommunication and Networking,2,visal.pheng@student.cadt.edu.kh
+462,Visal Khiev,Male,31-01-2003,061933917,Digital Business,2,visal.khiev@student.cadt.edu.kh
+463,Chan Khiev,Female,12-01-2004,088361496,Digital Business,2,chan.khiev@student.cadt.edu.kh
+464,Chan San,Male,09-12-2003,086183111,Digital Business,2,chan.san@student.cadt.edu.kh
+465,Vann Lim,Male,09-08-2003,067334734,Telecommunication and Networking,2,vann.lim@student.cadt.edu.kh
+466,Visal Lim,Male,30-12-2003,065521332,Computer Science,2,visal.lim@student.cadt.edu.kh
+467,Bopha Heng,Male,16-10-2001,057531224,Telecommunication and Networking,2,bopha.heng@student.cadt.edu.kh
+468,Srey Pheng,Female,27-04-2003,029542668,Computer Science,2,srey.pheng@student.cadt.edu.kh
+469,Chan Ly,Male,04-09-2002,081332647,Computer Science,2,chan.ly@student.cadt.edu.kh
+470,Vann Kim,Male,15-05-2004,041979562,Computer Science,2,vann.kim@student.cadt.edu.kh
+471,Chan Chea,Female,11-02-2004,094623131,Computer Science,2,chan.chea@student.cadt.edu.kh
+472,Vann Ly,Male,21-01-2001,058584457,Digital Business,2,vann.ly@student.cadt.edu.kh
+473,Srey Pheng,Female,19-12-2002,089175529,Telecommunication and Networking,2,srey.pheng@student.cadt.edu.kh
+474,Dara Pheng,Female,17-10-2003,055987989,Telecommunication and Networking,2,dara.pheng@student.cadt.edu.kh
+475,Mony Khiev,Male,12-03-2004,065567439,Computer Science,2,mony.khiev@student.cadt.edu.kh
+476,Sok Heng,Male,27-03-2004,027731617,Digital Business,2,sok.heng@student.cadt.edu.kh
+477,Dara Kim,Male,21-01-2002,054976454,Computer Science,2,dara.kim@student.cadt.edu.kh
+478,Vann San,Male,15-02-2003,051833162,Computer Science,2,vann.san@student.cadt.edu.kh
+479,Raksmey Khiev,Male,29-08-2004,022676775,Digital Business,2,raksmey.khiev@student.cadt.edu.kh
+480,Chanda Lim,Male,12-01-2003,069425789,Digital Business,2,chanda.lim@student.cadt.edu.kh
+481,Dara Chea,Male,21-01-2002,022711772,Telecommunication and Networking,2,dara.chea@student.cadt.edu.kh
+482,Chanda Kim,Male,02-01-2003,087378311,Telecommunication and Networking,2,chanda.kim@student.cadt.edu.kh
+483,Raksmey Ly,Male,03-09-2001,086891165,Digital Business,2,raksmey.ly@student.cadt.edu.kh
+484,Chanda Chea,Male,22-04-2003,062242537,Telecommunication and Networking,2,chanda.chea@student.cadt.edu.kh
+485,Sok Pheng,Male,10-03-2003,092777621,Digital Business,2,sok.pheng@student.cadt.edu.kh
+486,Bopha Ly,Female,16-12-2003,058595722,Computer Science,2,bopha.ly@student.cadt.edu.kh
+487,Raksmey Rith,Male,29-01-2003,023727352,Telecommunication and Networking,2,raksmey.rith@student.cadt.edu.kh
+488,Visal Nhim,Female,21-05-2001,092369158,Digital Business,2,visal.nhim@student.cadt.edu.kh
+489,Srey San,Male,16-10-2002,093732971,Computer Science,2,srey.san@student.cadt.edu.kh
+490,Chan Kim,Male,24-08-2003,039459835,Computer Science,2,chan.kim@student.cadt.edu.kh
+491,Chanda Ly,Male,28-02-2004,016544332,Digital Business,2,chanda.ly@student.cadt.edu.kh
+492,Bopha Kim,Female,05-07-2002,047644698,Computer Science,2,bopha.kim@student.cadt.edu.kh
+493,Raksmey San,Male,22-01-2003,097917655,Digital Business,2,raksmey.san@student.cadt.edu.kh
+494,Visal Kim,Male,09-06-2001,028695621,Telecommunication and Networking,2,visal.kim@student.cadt.edu.kh
+495,Srey Khiev,Female,17-05-2001,031159338,Computer Science,2,srey.khiev@student.cadt.edu.kh
+496,Chanda Kim,Female,21-10-2001,046292883,Digital Business,2,chanda.kim@student.cadt.edu.kh
+497,Visal Rith,Female,12-12-2002,043467319,Telecommunication and Networking,2,visal.rith@student.cadt.edu.kh
+498,Raksmey Kim,Male,04-11-2003,077496832,Digital Business,2,raksmey.kim@student.cadt.edu.kh
+499,Raksmey Chea,Female,15-05-2003,081615653,Digital Business,2,raksmey.chea@student.cadt.edu.kh
+500,Srey Nhim,Female,22-10-2003,088265957,Computer Science,2,srey.nhim@student.cadt.edu.kh
+501,Vann Pheng,Male,11-08-2002,092395583,Digital Business,2,vann.pheng@student.cadt.edu.kh
+502,Bopha Rith,Female,19-08-2004,065794468,Computer Science,2,bopha.rith@student.cadt.edu.kh
+503,Srey Khiev,Male,10-07-2004,059673453,Computer Science,2,srey.khiev@student.cadt.edu.kh
+504,Chan Khiev,Male,15-11-2002,093517255,Telecommunication and Networking,2,chan.khiev@student.cadt.edu.kh
+505,Vann Pheng,Male,25-09-2002,079241469,Digital Business,2,vann.pheng@student.cadt.edu.kh
+506,Mony Rith,Male,14-11-2001,075559235,Digital Business,2,mony.rith@student.cadt.edu.kh
+507,Dara Chea,Male,25-05-2003,049611931,Digital Business,2,dara.chea@student.cadt.edu.kh
+508,Sok Pheng,Male,28-05-2001,036875311,Computer Science,2,sok.pheng@student.cadt.edu.kh
+509,Raksmey Kim,Male,19-01-2003,041611988,Digital Business,2,raksmey.kim@student.cadt.edu.kh
+510,Vann Khiev,Male,01-11-2003,024975962,Digital Business,2,vann.khiev@student.cadt.edu.kh
+511,Chan Nhim,Female,05-06-2004,075582531,Digital Business,2,chan.nhim@student.cadt.edu.kh
+512,Sok Kim,Female,22-05-2001,048444373,Computer Science,2,sok.kim@student.cadt.edu.kh
+513,Mony Lim,Female,20-12-2002,022456497,Telecommunication and Networking,2,mony.lim@student.cadt.edu.kh
+514,Dara Pheng,Male,29-06-2001,033496776,Computer Science,2,dara.pheng@student.cadt.edu.kh
+515,Chanda Heng,Female,11-08-2003,057922498,Digital Business,2,chanda.heng@student.cadt.edu.kh
+516,Chanda Rith,Male,13-11-2002,052144666,Computer Science,2,chanda.rith@student.cadt.edu.kh
+517,Srey San,Female,15-04-2001,034729111,Digital Business,2,srey.san@student.cadt.edu.kh
+518,Mony Lim,Male,09-04-2001,082724675,Telecommunication and Networking,2,mony.lim@student.cadt.edu.kh
+519,Sok San,Male,24-08-2002,027971264,Computer Science,2,sok.san@student.cadt.edu.kh
+520,Chanda Khiev,Female,20-06-2003,048262924,Digital Business,2,chanda.khiev@student.cadt.edu.kh
+521,Vann Khiev,Male,06-10-2002,033426832,Digital Business,2,vann.khiev@student.cadt.edu.kh
+522,Chan Heng,Male,25-06-2004,031227531,Telecommunication and Networking,2,chan.heng@student.cadt.edu.kh
+523,Chanda Heng,Female,11-07-2002,018841898,Digital Business,2,chanda.heng@student.cadt.edu.kh
+524,Chanda Nhim,Female,11-10-2001,017175553,Digital Business,2,chanda.nhim@student.cadt.edu.kh
+525,Dara Rith,Male,04-12-2001,038388531,Digital Business,2,dara.rith@student.cadt.edu.kh
+526,Chan San,Female,17-02-2002,038794194,Computer Science,2,chan.san@student.cadt.edu.kh
+527,Chan San,Male,28-05-2004,027676598,Digital Business,2,chan.san@student.cadt.edu.kh
+528,Mony Nhim,Male,08-03-2004,011546483,Computer Science,2,mony.nhim@student.cadt.edu.kh
+529,Bopha Chea,Male,03-03-2003,074726499,Telecommunication and Networking,2,bopha.chea@student.cadt.edu.kh
+530,Dara Ly,Male,19-01-2001,048193338,Digital Business,2,dara.ly@student.cadt.edu.kh
+531,Mony Lim,Male,16-01-2003,028232985,Computer Science,2,mony.lim@student.cadt.edu.kh
+532,Sok Ly,Male,13-01-2004,036262646,Computer Science,2,sok.ly@student.cadt.edu.kh
+533,Mony Chea,Female,25-06-2004,056111896,Telecommunication and Networking,2,mony.chea@student.cadt.edu.kh
+534,Srey Nhim,Female,31-07-2003,034956197,Computer Science,2,srey.nhim@student.cadt.edu.kh
+535,Raksmey Kim,Male,05-04-2002,088359669,Digital Business,2,raksmey.kim@student.cadt.edu.kh
+536,Dara San,Female,01-05-2004,043857939,Computer Science,2,dara.san@student.cadt.edu.kh
+537,Raksmey Nhim,Male,16-06-2001,052722198,Telecommunication and Networking,2,raksmey.nhim@student.cadt.edu.kh
+538,Chan Nhim,Male,21-03-2003,072411765,Telecommunication and Networking,2,chan.nhim@student.cadt.edu.kh
+539,Dara Kim,Male,20-07-2003,011526284,Computer Science,2,dara.kim@student.cadt.edu.kh
+540,Dara Heng,Female,05-12-2001,078775975,Digital Business,2,dara.heng@student.cadt.edu.kh
+541,Sok Heng,Female,03-01-2001,038511644,Digital Business,2,sok.heng@student.cadt.edu.kh
+542,Srey San,Male,12-09-2003,076599427,Computer Science,2,srey.san@student.cadt.edu.kh
+543,Dara Rith,Female,19-05-2003,046698539,Telecommunication and Networking,2,dara.rith@student.cadt.edu.kh
+544,Chanda Lim,Female,24-12-2001,043726747,Telecommunication and Networking,2,chanda.lim@student.cadt.edu.kh
+545,Dara Pheng,Male,01-09-2001,023758175,Digital Business,2,dara.pheng@student.cadt.edu.kh
+546,Chan Ly,Male,28-03-2002,019798954,Computer Science,2,chan.ly@student.cadt.edu.kh
+547,Chanda Nhim,Female,28-02-2003,014371172,Digital Business,2,chanda.nhim@student.cadt.edu.kh
+548,Chan Chea,Male,07-04-2004,083355251,Computer Science,2,chan.chea@student.cadt.edu.kh
+549,Sok Lim,Male,22-03-2004,077861752,Digital Business,2,sok.lim@student.cadt.edu.kh
+550,Raksmey Nhim,Male,17-09-2002,019881467,Computer Science,2,raksmey.nhim@student.cadt.edu.kh
+551,Srey Kim,Female,02-04-2001,039266672,Telecommunication and Networking,3,srey.kim@student.cadt.edu.kh
+552,Vann Chea,Female,26-09-2003,063447818,Telecommunication and Networking,3,vann.chea@student.cadt.edu.kh
+553,Olivia Wilson,Male,21-02-2001,096949954,Computer Science,3,olivia.wilson@student.cadt.edu.kh
+554,James Taylor,Female,17-01-2003,018781723,Telecommunication and Networking,3,james.taylor@student.cadt.edu.kh
+555,James Smith,Male,16-06-2002,023477752,Computer Science,3,james.smith@student.cadt.edu.kh
+556,Mony Khiev,Male,18-12-2003,084568242,Computer Science,3,mony.khiev@student.cadt.edu.kh
+557,Chanda Khiev,Male,25-07-2003,074327563,Telecommunication and Networking,3,chanda.khiev@student.cadt.edu.kh
+558,Mony Kim,Female,16-12-2002,045699726,Telecommunication and Networking,3,mony.kim@student.cadt.edu.kh
+559,Chanda Heng,Male,27-06-2001,068923335,Telecommunication and Networking,3,chanda.heng@student.cadt.edu.kh
+560,John Davis,Male,30-04-2003,027642929,Telecommunication and Networking,3,john.davis@student.cadt.edu.kh
+561,Emily Miller,Female,16-05-2002,073934383,Telecommunication and Networking,3,emily.miller@student.cadt.edu.kh
+562,David Williams,Male,03-06-2002,085827181,Telecommunication and Networking,3,david.williams@student.cadt.edu.kh
+563,Raksmey Khiev,Male,26-04-2002,062855974,Telecommunication and Networking,3,raksmey.khiev@student.cadt.edu.kh
+564,Srey Nhim,Female,29-03-2003,028436112,Computer Science,3,srey.nhim@student.cadt.edu.kh
+565,Chanda Pheng,Male,25-06-2001,051249771,Computer Science,3,chanda.pheng@student.cadt.edu.kh
+566,Emily Williams,Female,24-02-2002,033692741,Computer Science,3,emily.williams@student.cadt.edu.kh
+567,Chanda Nhim,Male,12-12-2001,073821471,Digital Business,3,chanda.nhim@student.cadt.edu.kh
+568,Chanda Chea,Female,10-11-2001,071328614,Computer Science,3,chanda.chea@student.cadt.edu.kh
+569,Vann Khiev,Male,29-06-2001,039418722,Telecommunication and Networking,3,vann.khiev@student.cadt.edu.kh
+570,James Brown,Male,14-03-2003,056435267,Telecommunication and Networking,3,james.brown@student.cadt.edu.kh
+571,John Brown,Male,06-09-2003,031297452,Telecommunication and Networking,3,john.brown@student.cadt.edu.kh
+572,Michael Williams,Male,26-12-2003,056648131,Computer Science,3,michael.williams@student.cadt.edu.kh
+573,John Brown,Female,13-09-2003,025172791,Telecommunication and Networking,3,john.brown@student.cadt.edu.kh
+574,William Johnson,Male,31-10-2002,077728725,Telecommunication and Networking,3,william.johnson@student.cadt.edu.kh
+575,Bopha Heng,Male,07-10-2002,056192152,Computer Science,3,bopha.heng@student.cadt.edu.kh
+576,John Johnson,Female,19-10-2001,051848755,Digital Business,3,john.johnson@student.cadt.edu.kh
+577,Chanda Ly,Male,08-08-2003,094433419,Telecommunication and Networking,3,chanda.ly@student.cadt.edu.kh
+578,Ava Moore,Female,24-10-2001,069776476,Digital Business,3,ava.moore@student.cadt.edu.kh
+579,David Moore,Male,21-04-2002,049736261,Computer Science,3,david.moore@student.cadt.edu.kh
+580,David Miller,Female,11-02-2001,078683457,Telecommunication and Networking,3,david.miller@student.cadt.edu.kh
+581,Olivia Williams,Male,23-12-2003,022254325,Computer Science,3,olivia.williams@student.cadt.edu.kh
+582,Ava Johnson,Male,20-12-2003,075375461,Telecommunication and Networking,3,ava.johnson@student.cadt.edu.kh
+583,Mony Pheng,Female,08-12-2001,062979219,Digital Business,3,mony.pheng@student.cadt.edu.kh
+584,Srey Rith,Female,11-02-2003,037328142,Telecommunication and Networking,3,srey.rith@student.cadt.edu.kh
+585,Bopha Kim,Female,03-05-2003,086942284,Telecommunication and Networking,3,bopha.kim@student.cadt.edu.kh
+586,Raksmey Pheng,Female,18-03-2003,029228879,Computer Science,3,raksmey.pheng@student.cadt.edu.kh
+587,William Davis,Female,01-02-2001,018766439,Computer Science,3,william.davis@student.cadt.edu.kh
+588,Olivia Wilson,Female,03-01-2001,016444233,Telecommunication and Networking,3,olivia.wilson@student.cadt.edu.kh
+589,Isabella Wilson,Female,14-04-2001,051211845,Computer Science,3,isabella.wilson@student.cadt.edu.kh
+590,Emily Miller,Female,09-07-2002,023757933,Computer Science,3,emily.miller@student.cadt.edu.kh
+591,Olivia Moore,Male,18-03-2001,085955528,Telecommunication and Networking,3,olivia.moore@student.cadt.edu.kh
+592,Visal Heng,Male,23-02-2003,083521715,Digital Business,3,visal.heng@student.cadt.edu.kh
+593,Dara Pheng,Female,10-12-2001,082853576,Telecommunication and Networking,3,dara.pheng@student.cadt.edu.kh
+594,Vann Kim,Female,29-06-2002,055935715,Telecommunication and Networking,3,vann.kim@student.cadt.edu.kh
+595,John Brown,Female,09-10-2003,072531155,Digital Business,3,john.brown@student.cadt.edu.kh
+596,Emily Moore,Male,11-05-2003,083531889,Digital Business,3,emily.moore@student.cadt.edu.kh
+597,Chanda San,Male,02-05-2003,049192741,Telecommunication and Networking,3,chanda.san@student.cadt.edu.kh
+598,Olivia Davis,Female,01-10-2002,042817432,Computer Science,3,olivia.davis@student.cadt.edu.kh
+599,Ava Williams,Male,11-01-2001,023247999,Computer Science,3,ava.williams@student.cadt.edu.kh
+600,Chan Kim,Female,25-09-2003,019677679,Telecommunication and Networking,3,chan.kim@student.cadt.edu.kh
+601,Vann Ly,Male,10-07-2001,041693491,Computer Science,3,vann.ly@student.cadt.edu.kh
+602,Isabella Smith,Male,08-04-2001,054822791,Digital Business,3,isabella.smith@student.cadt.edu.kh
+603,William Smith,Female,12-03-2001,077511441,Digital Business,3,william.smith@student.cadt.edu.kh
+604,Sok Rith,Male,20-01-2003,032335181,Computer Science,3,sok.rith@student.cadt.edu.kh
+605,James Johnson,Male,23-05-2003,048636186,Telecommunication and Networking,3,james.johnson@student.cadt.edu.kh
+606,David Johnson,Male,19-08-2002,015895443,Telecommunication and Networking,3,david.johnson@student.cadt.edu.kh
+607,Sophia Davis,Male,07-03-2001,065682254,Computer Science,3,sophia.davis@student.cadt.edu.kh
+608,Emily Jones,Male,05-03-2001,063399483,Telecommunication and Networking,3,emily.jones@student.cadt.edu.kh
+609,Vann Khiev,Male,29-07-2003,098838453,Computer Science,3,vann.khiev@student.cadt.edu.kh
+610,Olivia Brown,Female,09-08-2001,016828174,Telecommunication and Networking,3,olivia.brown@student.cadt.edu.kh
+611,Emily Williams,Female,10-12-2003,018943142,Computer Science,3,emily.williams@student.cadt.edu.kh
+612,Mony Pheng,Male,17-11-2003,094415458,Telecommunication and Networking,3,mony.pheng@student.cadt.edu.kh
+613,David Jones,Male,05-04-2002,041147424,Digital Business,3,david.jones@student.cadt.edu.kh
+614,Srey Ly,Male,11-07-2002,076446923,Digital Business,3,srey.ly@student.cadt.edu.kh
+615,John Moore,Male,20-03-2001,027217552,Digital Business,3,john.moore@student.cadt.edu.kh
+616,Raksmey Khiev,Male,07-11-2003,087557282,Digital Business,3,raksmey.khiev@student.cadt.edu.kh
+617,Ava Moore,Female,16-11-2003,089888878,Digital Business,3,ava.moore@student.cadt.edu.kh
+618,John Taylor,Male,19-02-2002,083879765,Computer Science,3,john.taylor@student.cadt.edu.kh
+619,Dara Lim,Male,15-08-2002,085339754,Computer Science,3,dara.lim@student.cadt.edu.kh
+620,Bopha Heng,Male,02-09-2001,077124471,Digital Business,3,bopha.heng@student.cadt.edu.kh
+621,John Williams,Female,16-05-2001,022936441,Telecommunication and Networking,3,john.williams@student.cadt.edu.kh
+622,Vann Ly,Female,06-08-2003,077511934,Telecommunication and Networking,3,vann.ly@student.cadt.edu.kh
+623,Ava Miller,Male,12-03-2001,059962897,Digital Business,3,ava.miller@student.cadt.edu.kh
+624,Sophia Smith,Male,02-09-2002,076248579,Digital Business,3,sophia.smith@student.cadt.edu.kh
+625,Bopha Heng,Female,08-03-2002,093216789,Digital Business,3,bopha.heng@student.cadt.edu.kh
+626,Olivia Miller,Male,13-03-2001,096294881,Digital Business,3,olivia.miller@student.cadt.edu.kh
+627,Chan Chea,Male,03-08-2003,039971823,Telecommunication and Networking,3,chan.chea@student.cadt.edu.kh
+628,Visal Heng,Female,01-06-2003,077111824,Digital Business,3,visal.heng@student.cadt.edu.kh
+629,David Brown,Female,17-02-2003,078417449,Digital Business,3,david.brown@student.cadt.edu.kh
+630,Raksmey Nhim,Female,30-01-2003,048784892,Computer Science,3,raksmey.nhim@student.cadt.edu.kh
+631,Ava Johnson,Male,04-09-2003,039539234,Computer Science,3,ava.johnson@student.cadt.edu.kh
+632,John Moore,Male,29-10-2003,091922635,Computer Science,3,john.moore@student.cadt.edu.kh
+633,William Smith,Female,28-06-2001,036699828,Digital Business,3,william.smith@student.cadt.edu.kh
+634,Isabella Wilson,Female,30-10-2002,074474824,Computer Science,3,isabella.wilson@student.cadt.edu.kh
+635,James Taylor,Female,13-07-2001,023668676,Telecommunication and Networking,3,james.taylor@student.cadt.edu.kh
+636,James Taylor,Male,11-12-2002,073578343,Computer Science,3,james.taylor@student.cadt.edu.kh
+637,Srey Lim,Male,13-05-2002,083429946,Computer Science,3,srey.lim@student.cadt.edu.kh
+638,Sok Chea,Male,26-04-2003,012738417,Computer Science,3,sok.chea@student.cadt.edu.kh
+639,John Smith,Male,04-08-2003,044844654,Telecommunication and Networking,3,john.smith@student.cadt.edu.kh
+640,Olivia Smith,Female,11-09-2003,067561688,Telecommunication and Networking,3,olivia.smith@student.cadt.edu.kh
+641,Raksmey Khiev,Female,17-06-2001,079718322,Computer Science,3,raksmey.khiev@student.cadt.edu.kh
+642,William Wilson,Male,24-12-2001,077551981,Computer Science,3,william.wilson@student.cadt.edu.kh
+643,Srey Nhim,Male,12-05-2003,059767531,Computer Science,3,srey.nhim@student.cadt.edu.kh
+644,Bopha Chea,Male,22-04-2001,033285126,Computer Science,3,bopha.chea@student.cadt.edu.kh
+645,Mony Lim,Male,18-01-2002,014126832,Computer Science,3,mony.lim@student.cadt.edu.kh
+646,Vann Nhim,Male,01-03-2002,087741482,Digital Business,3,vann.nhim@student.cadt.edu.kh
+647,Isabella Jones,Male,05-06-2001,066548989,Computer Science,3,isabella.jones@student.cadt.edu.kh
+648,Chan San,Male,20-01-2003,039946317,Computer Science,3,chan.san@student.cadt.edu.kh
+649,Michael Miller,Female,31-01-2003,099843369,Telecommunication and Networking,3,michael.miller@student.cadt.edu.kh
+650,Sophia Wilson,Male,15-02-2001,086939766,Digital Business,3,sophia.wilson@student.cadt.edu.kh
+651,William Moore,Male,21-03-2002,064432774,Digital Business,3,william.moore@student.cadt.edu.kh
+652,Mony Chea,Female,28-04-2001,024962478,Computer Science,3,mony.chea@student.cadt.edu.kh
+653,Sok Nhim,Male,04-09-2001,087289131,Telecommunication and Networking,3,sok.nhim@student.cadt.edu.kh
+654,Dara Chea,Female,22-03-2003,039764436,Computer Science,3,dara.chea@student.cadt.edu.kh
+655,John Moore,Male,25-04-2001,077216974,Computer Science,3,john.moore@student.cadt.edu.kh
+656,Mony Ly,Female,24-06-2003,018843368,Digital Business,3,mony.ly@student.cadt.edu.kh
+657,Olivia Jones,Female,29-03-2002,048514198,Digital Business,3,olivia.jones@student.cadt.edu.kh
+658,Chanda Ly,Female,27-02-2002,045642665,Digital Business,3,chanda.ly@student.cadt.edu.kh
+659,Isabella Taylor,Female,19-05-2003,076644597,Digital Business,3,isabella.taylor@student.cadt.edu.kh
+660,Sok Rith,Female,10-05-2001,069426512,Computer Science,3,sok.rith@student.cadt.edu.kh
+661,Srey Nhim,Male,23-06-2001,093444591,Telecommunication and Networking,3,srey.nhim@student.cadt.edu.kh
+662,Srey Lim,Female,15-05-2001,013727379,Telecommunication and Networking,3,srey.lim@student.cadt.edu.kh
+663,Emily Jones,Male,17-05-2002,037289439,Digital Business,3,emily.jones@student.cadt.edu.kh
+664,Ava Johnson,Male,16-05-2003,067996428,Digital Business,3,ava.johnson@student.cadt.edu.kh
+665,William Davis,Female,06-09-2001,031128742,Computer Science,3,william.davis@student.cadt.edu.kh
+666,Chanda Chea,Male,07-10-2003,065693783,Telecommunication and Networking,3,chanda.chea@student.cadt.edu.kh
+667,Vann Nhim,Female,29-04-2002,044941923,Telecommunication and Networking,3,vann.nhim@student.cadt.edu.kh
+668,Ava Wilson,Male,08-04-2002,041169919,Digital Business,3,ava.wilson@student.cadt.edu.kh
+669,Isabella Jones,Male,12-07-2001,027632361,Computer Science,3,isabella.jones@student.cadt.edu.kh
+670,Ava Moore,Male,19-08-2002,072143714,Digital Business,3,ava.moore@student.cadt.edu.kh
+671,Bopha Pheng,Female,09-07-2001,079715565,Digital Business,3,bopha.pheng@student.cadt.edu.kh
+672,Emily Brown,Female,22-09-2002,062117948,Telecommunication and Networking,3,emily.brown@student.cadt.edu.kh
+673,Bopha Ly,Female,29-01-2002,098967492,Digital Business,3,bopha.ly@student.cadt.edu.kh
+674,Michael Taylor,Female,09-01-2003,048389215,Digital Business,3,michael.taylor@student.cadt.edu.kh
+675,Mony Kim,Male,07-10-2001,013317733,Computer Science,3,mony.kim@student.cadt.edu.kh
+676,Emily Brown,Male,24-10-2002,062764833,Telecommunication and Networking,3,emily.brown@student.cadt.edu.kh
+677,Chanda Chea,Male,23-03-2003,046388119,Computer Science,3,chanda.chea@student.cadt.edu.kh
+678,Raksmey Heng,Female,14-10-2002,016366495,Digital Business,3,raksmey.heng@student.cadt.edu.kh
+679,Chanda Chea,Male,30-10-2003,014168235,Digital Business,3,chanda.chea@student.cadt.edu.kh
+680,Vann Nhim,Female,19-10-2001,018284779,Digital Business,3,vann.nhim@student.cadt.edu.kh
+681,Dara Khiev,Female,25-03-2001,097841689,Computer Science,3,dara.khiev@student.cadt.edu.kh
+682,Mony Heng,Male,08-01-2003,072963538,Computer Science,3,mony.heng@student.cadt.edu.kh
+683,Vann Lim,Female,08-12-2002,089376297,Telecommunication and Networking,3,vann.lim@student.cadt.edu.kh
+684,James Moore,Male,19-09-2001,053931163,Digital Business,3,james.moore@student.cadt.edu.kh
+685,Bopha Kim,Female,21-09-2003,041222116,Computer Science,3,bopha.kim@student.cadt.edu.kh
+686,Dara Rith,Male,12-01-2001,035562776,Telecommunication and Networking,3,dara.rith@student.cadt.edu.kh
+687,Chanda Heng,Male,26-08-2003,048555766,Computer Science,3,chanda.heng@student.cadt.edu.kh
+688,Mony Ly,Male,19-02-2001,096872943,Telecommunication and Networking,3,mony.ly@student.cadt.edu.kh
+689,Ava Davis,Female,25-10-2002,017883674,Telecommunication and Networking,3,ava.davis@student.cadt.edu.kh
+690,Sophia Moore,Female,06-01-2003,091129358,Telecommunication and Networking,3,sophia.moore@student.cadt.edu.kh
+691,Srey Khiev,Female,09-09-2001,069929581,Digital Business,3,srey.khiev@student.cadt.edu.kh
+692,Chan Rith,Male,07-10-2003,073156133,Digital Business,3,chan.rith@student.cadt.edu.kh
+693,Isabella Smith,Male,05-04-2002,067884795,Computer Science,3,isabella.smith@student.cadt.edu.kh
+694,Michael Johnson,Male,12-05-2003,067734535,Digital Business,3,michael.johnson@student.cadt.edu.kh
+695,James Davis,Male,19-01-2001,084647924,Telecommunication and Networking,3,james.davis@student.cadt.edu.kh
+696,Ava Williams,Female,05-07-2001,055369867,Telecommunication and Networking,3,ava.williams@student.cadt.edu.kh
+697,Sok Chea,Male,13-03-2001,084373396,Telecommunication and Networking,3,sok.chea@student.cadt.edu.kh
+698,Mony Nhim,Female,06-08-2002,086451586,Telecommunication and Networking,3,mony.nhim@student.cadt.edu.kh
+699,Vann Heng,Male,29-10-2002,014488896,Digital Business,3,vann.heng@student.cadt.edu.kh
+700,James Smith,Male,11-03-2002,087238621,Digital Business,3,james.smith@student.cadt.edu.kh
+701,Sok Rith,Female,27-04-2003,056273232,Digital Business,3,sok.rith@student.cadt.edu.kh
+702,Vann San,Male,19-06-2001,035629983,Telecommunication and Networking,3,vann.san@student.cadt.edu.kh
+703,Visal Chea,Male,23-03-2003,027514967,Telecommunication and Networking,3,visal.chea@student.cadt.edu.kh
+704,Olivia Davis,Female,10-10-2002,065193924,Telecommunication and Networking,3,olivia.davis@student.cadt.edu.kh
+705,Dara Heng,Female,13-12-2002,021447737,Computer Science,3,dara.heng@student.cadt.edu.kh
+706,Olivia Wilson,Male,14-01-2001,017789787,Telecommunication and Networking,3,olivia.wilson@student.cadt.edu.kh
+707,Raksmey Rith,Female,17-01-2003,073828762,Computer Science,3,raksmey.rith@student.cadt.edu.kh
+708,Olivia Miller,Female,29-06-2001,071352726,Digital Business,3,olivia.miller@student.cadt.edu.kh
+709,Srey Pheng,Female,02-07-2003,049218932,Digital Business,3,srey.pheng@student.cadt.edu.kh
+710,Michael Jones,Female,06-04-2001,017225365,Telecommunication and Networking,3,michael.jones@student.cadt.edu.kh
+711,William Davis,Female,15-09-2002,096317667,Computer Science,3,william.davis@student.cadt.edu.kh
+712,John Williams,Female,07-09-2002,058731836,Telecommunication and Networking,3,john.williams@student.cadt.edu.kh
+713,Srey Pheng,Male,17-04-2003,036386563,Digital Business,3,srey.pheng@student.cadt.edu.kh
+714,Srey Ly,Female,28-06-2001,051746572,Computer Science,3,srey.ly@student.cadt.edu.kh
+715,Olivia Davis,Male,23-11-2002,083931218,Computer Science,3,olivia.davis@student.cadt.edu.kh
+716,Vann Lim,Male,16-03-2003,076268172,Digital Business,3,vann.lim@student.cadt.edu.kh
+717,Bopha Chea,Male,10-03-2001,066756115,Telecommunication and Networking,3,bopha.chea@student.cadt.edu.kh
+718,Sophia Davis,Female,02-01-2003,093166282,Digital Business,3,sophia.davis@student.cadt.edu.kh
+719,David Miller,Male,07-02-2001,015977465,Digital Business,3,david.miller@student.cadt.edu.kh
+720,James Jones,Male,22-03-2001,078178791,Computer Science,3,james.jones@student.cadt.edu.kh
+721,Michael Jones,Male,25-10-2003,055441341,Computer Science,3,michael.jones@student.cadt.edu.kh
+722,Sophia Williams,Male,20-04-2002,056398479,Digital Business,3,sophia.williams@student.cadt.edu.kh
+723,Ava Smith,Male,03-05-2003,048669611,Computer Science,3,ava.smith@student.cadt.edu.kh
+724,Srey Ly,Male,07-08-2003,076885623,Telecommunication and Networking,3,srey.ly@student.cadt.edu.kh
+725,Srey Pheng,Female,05-04-2003,053939237,Telecommunication and Networking,3,srey.pheng@student.cadt.edu.kh
+726,James Williams,Male,19-11-2001,054186741,Digital Business,3,james.williams@student.cadt.edu.kh
+727,Olivia Jones,Female,16-03-2003,029157319,Digital Business,3,olivia.jones@student.cadt.edu.kh
+728,John Moore,Female,09-09-2001,078249442,Digital Business,3,john.moore@student.cadt.edu.kh
+729,Ava Miller,Male,03-11-2003,093743739,Digital Business,3,ava.miller@student.cadt.edu.kh
+730,Visal Lim,Female,14-11-2001,052215157,Digital Business,3,visal.lim@student.cadt.edu.kh
+731,Michael Moore,Male,25-11-2002,091195434,Computer Science,3,michael.moore@student.cadt.edu.kh
+732,Visal Ly,Male,30-05-2002,048876565,Digital Business,3,visal.ly@student.cadt.edu.kh
+733,Ava Davis,Male,29-03-2001,024587129,Digital Business,3,ava.davis@student.cadt.edu.kh
+734,Chanda San,Male,14-01-2003,021943796,Telecommunication and Networking,3,chanda.san@student.cadt.edu.kh
+735,James Miller,Male,11-10-2003,081476922,Digital Business,3,james.miller@student.cadt.edu.kh
+736,Dara San,Male,11-07-2001,072979146,Digital Business,3,dara.san@student.cadt.edu.kh
+737,Chan Ly,Male,14-10-2002,071697476,Telecommunication and Networking,3,chan.ly@student.cadt.edu.kh
+738,Olivia Taylor,Female,27-09-2001,052752333,Digital Business,3,olivia.taylor@student.cadt.edu.kh
+739,David Moore,Male,24-01-2001,045937381,Digital Business,3,david.moore@student.cadt.edu.kh
+740,William Smith,Male,30-11-2001,048233558,Telecommunication and Networking,3,william.smith@student.cadt.edu.kh
+741,Chan Kim,Male,20-07-2001,012184386,Computer Science,3,chan.kim@student.cadt.edu.kh
+742,Isabella Davis,Male,18-11-2003,057431891,Telecommunication and Networking,3,isabella.davis@student.cadt.edu.kh
+743,Srey Chea,Male,25-06-2002,011991679,Digital Business,3,srey.chea@student.cadt.edu.kh
+744,Bopha Kim,Male,17-06-2002,018997977,Telecommunication and Networking,3,bopha.kim@student.cadt.edu.kh
+745,John Williams,Male,16-10-2002,036741679,Computer Science,3,john.williams@student.cadt.edu.kh
+746,Raksmey Pheng,Female,22-02-2001,071212759,Telecommunication and Networking,3,raksmey.pheng@student.cadt.edu.kh
+747,Sophia Davis,Female,04-12-2002,097672948,Digital Business,3,sophia.davis@student.cadt.edu.kh
+748,Mony Khiev,Female,25-01-2003,084795984,Computer Science,3,mony.khiev@student.cadt.edu.kh
+749,Olivia Moore,Male,24-12-2001,095314336,Computer Science,3,olivia.moore@student.cadt.edu.kh
+750,Sok Ly,Male,24-12-2001,017665745,Telecommunication and Networking,3,sok.ly@student.cadt.edu.kh
+751,Vann Ly,Male,14-01-2001,011798854,Computer Science,3,vann.ly@student.cadt.edu.kh
+752,Mony Kim,Female,22-01-2001,053181777,Digital Business,3,mony.kim@student.cadt.edu.kh
+753,Bopha Ly,Male,18-05-2001,025669713,Digital Business,3,bopha.ly@student.cadt.edu.kh
+754,James Wilson,Male,26-10-2002,031631997,Computer Science,3,james.wilson@student.cadt.edu.kh
+755,Dara Kim,Male,26-02-2002,094733236,Telecommunication and Networking,3,dara.kim@student.cadt.edu.kh
+756,William Brown,Female,12-10-2002,071497636,Computer Science,3,william.brown@student.cadt.edu.kh
+757,Ava Williams,Male,16-01-2001,094226641,Digital Business,3,ava.williams@student.cadt.edu.kh
+758,Visal Pheng,Male,05-09-2001,057714154,Computer Science,3,visal.pheng@student.cadt.edu.kh
+759,James Davis,Male,14-08-2003,027885543,Computer Science,3,james.davis@student.cadt.edu.kh
+760,Ava Williams,Female,12-08-2003,087192878,Computer Science,3,ava.williams@student.cadt.edu.kh
+761,Michael Smith,Male,05-10-2002,094776845,Digital Business,3,michael.smith@student.cadt.edu.kh
+762,Raksmey Ly,Male,23-04-2001,081257338,Digital Business,3,raksmey.ly@student.cadt.edu.kh
+763,Vann Lim,Male,24-01-2001,024435789,Digital Business,3,vann.lim@student.cadt.edu.kh
+764,Mony Chea,Female,28-11-2002,049797844,Computer Science,3,mony.chea@student.cadt.edu.kh
+765,Visal Lim,Male,08-03-2002,084759347,Digital Business,3,visal.lim@student.cadt.edu.kh
+766,Vann Chea,Male,11-04-2003,048914847,Telecommunication and Networking,3,vann.chea@student.cadt.edu.kh
+767,Sok Kim,Female,30-07-2002,038434468,Digital Business,3,sok.kim@student.cadt.edu.kh
+768,John Williams,Female,30-10-2002,069766831,Telecommunication and Networking,3,john.williams@student.cadt.edu.kh
+769,Ava Wilson,Male,17-11-2002,059383878,Telecommunication and Networking,3,ava.wilson@student.cadt.edu.kh
+770,Mony Khiev,Female,09-08-2002,058321511,Computer Science,3,mony.khiev@student.cadt.edu.kh
+771,Chanda Lim,Female,27-01-2003,053979262,Telecommunication and Networking,3,chanda.lim@student.cadt.edu.kh
+772,Bopha Kim,Male,09-09-2002,084926616,Telecommunication and Networking,3,bopha.kim@student.cadt.edu.kh
+773,David Miller,Male,02-08-2002,039524974,Telecommunication and Networking,3,david.miller@student.cadt.edu.kh
+774,Sophia Taylor,Male,27-12-2001,026498562,Computer Science,3,sophia.taylor@student.cadt.edu.kh
+775,Michael Davis,Male,03-02-2001,095967752,Computer Science,3,michael.davis@student.cadt.edu.kh
+776,Emily Moore,Female,30-08-2003,089116618,Telecommunication and Networking,3,emily.moore@student.cadt.edu.kh
+777,Ava Moore,Male,29-07-2001,043697713,Computer Science,3,ava.moore@student.cadt.edu.kh
+778,Mony Nhim,Male,05-01-2002,043724865,Telecommunication and Networking,3,mony.nhim@student.cadt.edu.kh
+779,Chanda Pheng,Male,20-10-2001,065114136,Digital Business,3,chanda.pheng@student.cadt.edu.kh
+780,Mony Pheng,Female,02-01-2003,037696223,Digital Business,3,mony.pheng@student.cadt.edu.kh
+781,Olivia Moore,Female,15-04-2002,097118166,Telecommunication and Networking,3,olivia.moore@student.cadt.edu.kh
+782,Sophia Miller,Male,05-05-2001,033758294,Computer Science,3,sophia.miller@student.cadt.edu.kh
+783,Ava Moore,Male,09-12-2002,015363525,Digital Business,3,ava.moore@student.cadt.edu.kh
+784,Emily Moore,Female,07-06-2003,054125874,Digital Business,3,emily.moore@student.cadt.edu.kh
+785,Raksmey Chea,Female,03-03-2001,015279936,Computer Science,3,raksmey.chea@student.cadt.edu.kh
+786,Isabella Jones,Male,21-05-2002,037391515,Computer Science,3,isabella.jones@student.cadt.edu.kh
+787,James Moore,Male,07-04-2002,047613212,Telecommunication and Networking,3,james.moore@student.cadt.edu.kh
+788,Visal Chea,Male,19-10-2001,073353167,Telecommunication and Networking,3,visal.chea@student.cadt.edu.kh
+789,Raksmey Rith,Female,06-07-2002,014643189,Telecommunication and Networking,3,raksmey.rith@student.cadt.edu.kh
+790,Sophia Taylor,Female,22-06-2002,076867752,Digital Business,3,sophia.taylor@student.cadt.edu.kh
+791,William Wilson,Male,14-01-2001,047474822,Computer Science,3,william.wilson@student.cadt.edu.kh
+792,John Smith,Male,12-04-2003,062336858,Telecommunication and Networking,3,john.smith@student.cadt.edu.kh
+793,Isabella Brown,Male,02-11-2001,077559876,Computer Science,3,isabella.brown@student.cadt.edu.kh
+794,David Moore,Male,12-11-2001,042187422,Computer Science,3,david.moore@student.cadt.edu.kh
+795,Raksmey Ly,Male,22-11-2002,045929726,Computer Science,3,raksmey.ly@student.cadt.edu.kh
+796,Sophia Taylor,Female,10-05-2003,091128857,Computer Science,3,sophia.taylor@student.cadt.edu.kh
+797,Visal Pheng,Female,03-02-2002,078716983,Digital Business,3,visal.pheng@student.cadt.edu.kh
+798,Sok Rith,Female,18-08-2001,083285146,Digital Business,3,sok.rith@student.cadt.edu.kh
+799,Olivia Miller,Male,16-12-2002,039958994,Telecommunication and Networking,3,olivia.miller@student.cadt.edu.kh
+800,David Williams,Female,30-11-2002,013342952,Computer Science,3,david.williams@student.cadt.edu.kh
+801,Sok Heng,Female,22-12-2002,021981327,Digital Business,4,sok.heng@student.cadt.edu.kh
+802,Mony Chea,Male,18-09-2001,033141996,Digital Business,4,mony.chea@student.cadt.edu.kh
+803,Dara Rith,Male,04-03-2001,096163551,Digital Business,4,dara.rith@student.cadt.edu.kh
+804,Visal Ly,Male,17-12-2002,023135937,Telecommunication and Networking,4,visal.ly@student.cadt.edu.kh
+805,Michael Smith,Male,20-10-2002,045662424,Digital Business,4,michael.smith@student.cadt.edu.kh
+806,Sok Lim,Female,26-02-2001,062597469,Telecommunication and Networking,4,sok.lim@student.cadt.edu.kh
+807,Srey Heng,Female,30-03-2002,022217896,Digital Business,4,srey.heng@student.cadt.edu.kh
+808,Mony Ly,Male,16-07-2001,062719112,Computer Science,4,mony.ly@student.cadt.edu.kh
+809,James Johnson,Male,17-10-2002,015432754,Telecommunication and Networking,4,james.johnson@student.cadt.edu.kh
+810,Olivia Wilson,Female,08-12-2002,036428819,Computer Science,4,olivia.wilson@student.cadt.edu.kh
+811,David Davis,Male,26-08-2001,078464619,Telecommunication and Networking,4,david.davis@student.cadt.edu.kh
+812,Chanda Kim,Male,29-10-2002,023941625,Digital Business,4,chanda.kim@student.cadt.edu.kh
+813,Vann Lim,Male,24-07-2002,059443469,Computer Science,4,vann.lim@student.cadt.edu.kh
+814,David Taylor,Male,28-07-2002,074225955,Computer Science,4,david.taylor@student.cadt.edu.kh
+815,Bopha San,Female,20-01-2001,062326163,Computer Science,4,bopha.san@student.cadt.edu.kh
+816,John Davis,Female,17-01-2001,078913519,Computer Science,4,john.davis@student.cadt.edu.kh
+817,Visal Nhim,Male,18-06-2001,069329459,Computer Science,4,visal.nhim@student.cadt.edu.kh
+818,Sok Heng,Male,07-07-2002,089434437,Digital Business,4,sok.heng@student.cadt.edu.kh
+819,Visal San,Male,13-10-2001,086623217,Telecommunication and Networking,4,visal.san@student.cadt.edu.kh
+820,William Taylor,Male,25-01-2002,021281749,Digital Business,4,william.taylor@student.cadt.edu.kh
+821,Visal Kim,Male,30-12-2002,036645366,Telecommunication and Networking,4,visal.kim@student.cadt.edu.kh
+822,John Jones,Male,21-08-2002,062523839,Telecommunication and Networking,4,john.jones@student.cadt.edu.kh
+823,David Williams,Female,02-12-2001,012671875,Computer Science,4,david.williams@student.cadt.edu.kh
+824,David Smith,Male,03-01-2002,057658429,Telecommunication and Networking,4,david.smith@student.cadt.edu.kh
+825,Chanda Ly,Female,16-04-2001,025786226,Digital Business,4,chanda.ly@student.cadt.edu.kh
+826,Vann Kim,Male,29-12-2002,096841291,Telecommunication and Networking,4,vann.kim@student.cadt.edu.kh
+827,Mony Khiev,Female,09-01-2002,014116846,Telecommunication and Networking,4,mony.khiev@student.cadt.edu.kh
+828,Sok Nhim,Female,10-07-2002,041793123,Digital Business,4,sok.nhim@student.cadt.edu.kh
+829,Mony Pheng,Female,28-01-2001,096987978,Digital Business,4,mony.pheng@student.cadt.edu.kh
+830,Visal Lim,Male,01-05-2001,044936977,Telecommunication and Networking,4,visal.lim@student.cadt.edu.kh
+831,James Johnson,Male,24-04-2001,013892382,Telecommunication and Networking,4,james.johnson@student.cadt.edu.kh
+832,Ava Moore,Male,29-04-2002,023856176,Telecommunication and Networking,4,ava.moore@student.cadt.edu.kh
+833,Srey Pheng,Male,05-01-2002,028733664,Digital Business,4,srey.pheng@student.cadt.edu.kh
+834,Chan Heng,Female,17-11-2002,065247156,Telecommunication and Networking,4,chan.heng@student.cadt.edu.kh
+835,Srey Khiev,Male,10-11-2001,027133585,Digital Business,4,srey.khiev@student.cadt.edu.kh
+836,Ava Wilson,Male,16-03-2002,033861782,Computer Science,4,ava.wilson@student.cadt.edu.kh
+837,Isabella Miller,Male,13-12-2001,045536373,Digital Business,4,isabella.miller@student.cadt.edu.kh
+838,Sok Khiev,Male,23-03-2002,063164723,Digital Business,4,sok.khiev@student.cadt.edu.kh
+839,Vann Ly,Male,03-12-2001,013246567,Telecommunication and Networking,4,vann.ly@student.cadt.edu.kh
+840,William Taylor,Female,05-11-2002,079632556,Telecommunication and Networking,4,william.taylor@student.cadt.edu.kh
+841,Chanda Khiev,Male,04-03-2002,067251941,Digital Business,4,chanda.khiev@student.cadt.edu.kh
+842,Emily Miller,Male,09-03-2001,068845487,Digital Business,4,emily.miller@student.cadt.edu.kh
+843,Srey Nhim,Male,06-01-2002,035977753,Telecommunication and Networking,4,srey.nhim@student.cadt.edu.kh
+844,Vann Lim,Male,11-04-2002,094646633,Telecommunication and Networking,4,vann.lim@student.cadt.edu.kh
+845,Chanda Khiev,Male,09-02-2002,014692394,Computer Science,4,chanda.khiev@student.cadt.edu.kh
+846,Visal Ly,Male,23-05-2001,057523544,Computer Science,4,visal.ly@student.cadt.edu.kh
+847,Chan Heng,Female,31-03-2002,056584683,Digital Business,4,chan.heng@student.cadt.edu.kh
+848,Olivia Smith,Male,02-01-2002,061455478,Telecommunication and Networking,4,olivia.smith@student.cadt.edu.kh
+849,William Williams,Male,23-12-2001,013657498,Telecommunication and Networking,4,william.williams@student.cadt.edu.kh
+850,Chanda Kim,Male,21-01-2002,052718226,Telecommunication and Networking,4,chanda.kim@student.cadt.edu.kh
+851,David Wilson,Male,16-06-2001,022538722,Digital Business,4,david.wilson@student.cadt.edu.kh
+852,Visal San,Male,17-01-2001,063131832,Computer Science,4,visal.san@student.cadt.edu.kh
+853,Mony Ly,Male,01-05-2001,017749514,Telecommunication and Networking,4,mony.ly@student.cadt.edu.kh
+854,William Johnson,Male,22-01-2002,027375619,Digital Business,4,william.johnson@student.cadt.edu.kh
+855,David Williams,Female,30-06-2001,028926935,Computer Science,4,david.williams@student.cadt.edu.kh
+856,Raksmey Nhim,Male,22-01-2001,042839773,Telecommunication and Networking,4,raksmey.nhim@student.cadt.edu.kh
+857,John Jones,Male,13-05-2001,015123569,Digital Business,4,john.jones@student.cadt.edu.kh
+858,Raksmey Pheng,Male,18-09-2001,079222848,Digital Business,4,raksmey.pheng@student.cadt.edu.kh
+859,William Miller,Male,02-04-2001,093253184,Telecommunication and Networking,4,william.miller@student.cadt.edu.kh
+860,Michael Smith,Male,16-07-2002,083617696,Computer Science,4,michael.smith@student.cadt.edu.kh
+861,Raksmey Rith,Male,08-05-2002,082539841,Computer Science,4,raksmey.rith@student.cadt.edu.kh
+862,Srey Nhim,Female,09-01-2002,064151929,Telecommunication and Networking,4,srey.nhim@student.cadt.edu.kh
+863,Ava Brown,Male,09-12-2002,063338758,Telecommunication and Networking,4,ava.brown@student.cadt.edu.kh
+864,Chanda Khiev,Male,11-05-2001,022862598,Telecommunication and Networking,4,chanda.khiev@student.cadt.edu.kh
+865,Ava Brown,Female,09-12-2001,079513578,Computer Science,4,ava.brown@student.cadt.edu.kh
+866,Isabella Taylor,Male,04-07-2002,027398521,Telecommunication and Networking,4,isabella.taylor@student.cadt.edu.kh
+867,Dara Ly,Female,08-05-2002,076759688,Telecommunication and Networking,4,dara.ly@student.cadt.edu.kh
+868,Bopha Rith,Female,10-09-2002,076345168,Computer Science,4,bopha.rith@student.cadt.edu.kh
+869,Olivia Brown,Female,31-05-2001,032739464,Digital Business,4,olivia.brown@student.cadt.edu.kh
+870,Michael Davis,Male,29-12-2001,074676676,Computer Science,4,michael.davis@student.cadt.edu.kh
+871,Sok Pheng,Male,21-06-2001,046158431,Computer Science,4,sok.pheng@student.cadt.edu.kh
+872,Mony Lim,Male,05-04-2002,052898368,Telecommunication and Networking,4,mony.lim@student.cadt.edu.kh
+873,Visal Rith,Female,29-10-2002,065488554,Digital Business,4,visal.rith@student.cadt.edu.kh
+874,Ava Moore,Male,20-09-2002,039783571,Computer Science,4,ava.moore@student.cadt.edu.kh
+875,Vann Chea,Male,12-08-2001,099554257,Telecommunication and Networking,4,vann.chea@student.cadt.edu.kh
+876,Isabella Davis,Male,25-06-2001,074857769,Digital Business,4,isabella.davis@student.cadt.edu.kh
+877,David Moore,Male,28-01-2001,013714456,Telecommunication and Networking,4,david.moore@student.cadt.edu.kh
+878,James Brown,Female,15-01-2002,015971585,Telecommunication and Networking,4,james.brown@student.cadt.edu.kh
+879,Michael Williams,Male,05-01-2002,037445658,Computer Science,4,michael.williams@student.cadt.edu.kh
+880,Dara Khiev,Female,15-12-2002,027282613,Computer Science,4,dara.khiev@student.cadt.edu.kh
+881,David Davis,Male,27-06-2002,058655418,Telecommunication and Networking,4,david.davis@student.cadt.edu.kh
+882,Visal Heng,Female,15-12-2001,047224642,Computer Science,4,visal.heng@student.cadt.edu.kh
+883,Chanda Nhim,Female,04-10-2001,089872571,Computer Science,4,chanda.nhim@student.cadt.edu.kh
+884,Emily Davis,Male,24-05-2001,056189915,Computer Science,4,emily.davis@student.cadt.edu.kh
+885,William Johnson,Female,22-09-2002,016235422,Telecommunication and Networking,4,william.johnson@student.cadt.edu.kh
+886,Visal Nhim,Male,04-09-2001,021973767,Telecommunication and Networking,4,visal.nhim@student.cadt.edu.kh
+887,Chan Khiev,Male,02-07-2001,046272743,Digital Business,4,chan.khiev@student.cadt.edu.kh
+888,Vann Chea,Female,04-11-2002,075824982,Computer Science,4,vann.chea@student.cadt.edu.kh
+889,Isabella Davis,Male,28-11-2001,058667747,Computer Science,4,isabella.davis@student.cadt.edu.kh
+890,Ava Brown,Male,04-06-2001,017775438,Telecommunication and Networking,4,ava.brown@student.cadt.edu.kh
+891,Olivia Taylor,Female,11-11-2001,098924634,Digital Business,4,olivia.taylor@student.cadt.edu.kh
+892,Isabella Miller,Female,06-05-2002,053258951,Digital Business,4,isabella.miller@student.cadt.edu.kh
+893,Emily Moore,Male,18-12-2002,082939751,Digital Business,4,emily.moore@student.cadt.edu.kh
+894,James Smith,Male,28-03-2002,016942789,Computer Science,4,james.smith@student.cadt.edu.kh
+895,Dara Pheng,Female,05-10-2002,076337213,Computer Science,4,dara.pheng@student.cadt.edu.kh
+896,Ava Taylor,Male,17-09-2002,024196257,Digital Business,4,ava.taylor@student.cadt.edu.kh
+897,Vann Lim,Male,26-07-2002,051834987,Computer Science,4,vann.lim@student.cadt.edu.kh
+898,Sok Heng,Female,23-02-2002,017783317,Digital Business,4,sok.heng@student.cadt.edu.kh
+899,Dara Heng,Male,05-09-2002,088196767,Telecommunication and Networking,4,dara.heng@student.cadt.edu.kh
+900,David Moore,Female,02-09-2001,056226444,Computer Science,4,david.moore@student.cadt.edu.kh
+901,Sok Chea,Male,13-05-2002,024116525,Computer Science,4,sok.chea@student.cadt.edu.kh
+902,Michael Davis,Male,19-06-2001,084128934,Digital Business,4,michael.davis@student.cadt.edu.kh
+903,William Miller,Male,23-06-2001,082979565,Digital Business,4,william.miller@student.cadt.edu.kh
+904,William Taylor,Male,26-09-2001,076975151,Digital Business,4,william.taylor@student.cadt.edu.kh
+905,Bopha Rith,Female,10-07-2001,025718888,Digital Business,4,bopha.rith@student.cadt.edu.kh
+906,Ava Miller,Male,06-10-2001,016241189,Telecommunication and Networking,4,ava.miller@student.cadt.edu.kh
+907,Raksmey Pheng,Male,19-09-2002,017194286,Telecommunication and Networking,4,raksmey.pheng@student.cadt.edu.kh
+908,James Brown,Female,14-02-2002,041794969,Computer Science,4,james.brown@student.cadt.edu.kh
+909,David Brown,Male,21-06-2002,089356398,Telecommunication and Networking,4,david.brown@student.cadt.edu.kh
+910,David Williams,Male,30-03-2001,043969122,Telecommunication and Networking,4,david.williams@student.cadt.edu.kh
+911,Sophia Williams,Male,02-12-2001,032436325,Telecommunication and Networking,4,sophia.williams@student.cadt.edu.kh
+912,Bopha Heng,Male,24-10-2002,081593623,Computer Science,4,bopha.heng@student.cadt.edu.kh
+913,Emily Smith,Female,28-07-2002,019486969,Telecommunication and Networking,4,emily.smith@student.cadt.edu.kh
+914,Bopha Pheng,Female,17-06-2001,026655873,Digital Business,4,bopha.pheng@student.cadt.edu.kh
+915,Visal Chea,Male,07-01-2001,065798361,Computer Science,4,visal.chea@student.cadt.edu.kh
+916,Emily Taylor,Female,05-02-2002,076437818,Computer Science,4,emily.taylor@student.cadt.edu.kh
+917,Visal Chea,Female,01-02-2002,013718812,Computer Science,4,visal.chea@student.cadt.edu.kh
+918,Olivia Davis,Female,17-01-2002,031713318,Digital Business,4,olivia.davis@student.cadt.edu.kh
+919,William Davis,Male,06-12-2001,018616196,Digital Business,4,william.davis@student.cadt.edu.kh
+920,John Miller,Female,19-07-2002,046347797,Computer Science,4,john.miller@student.cadt.edu.kh
+921,Bopha Nhim,Male,04-02-2001,073615731,Digital Business,4,bopha.nhim@student.cadt.edu.kh
+922,William Davis,Male,04-07-2002,032268387,Digital Business,4,william.davis@student.cadt.edu.kh
+923,Sophia Smith,Female,22-09-2001,038135448,Computer Science,4,sophia.smith@student.cadt.edu.kh
+924,Olivia Smith,Male,14-07-2002,066745286,Computer Science,4,olivia.smith@student.cadt.edu.kh
+925,Srey Rith,Male,10-09-2002,086164124,Computer Science,4,srey.rith@student.cadt.edu.kh
+926,Raksmey San,Female,21-05-2002,043578345,Computer Science,4,raksmey.san@student.cadt.edu.kh
+927,Chan San,Female,23-10-2002,022877894,Digital Business,4,chan.san@student.cadt.edu.kh
+928,Emily Wilson,Male,13-11-2001,036647558,Digital Business,4,emily.wilson@student.cadt.edu.kh
+929,Ava Moore,Male,30-10-2001,089762649,Telecommunication and Networking,4,ava.moore@student.cadt.edu.kh
+930,Visal Khiev,Male,25-08-2002,023526185,Telecommunication and Networking,4,visal.khiev@student.cadt.edu.kh
+931,William Wilson,Male,04-12-2001,031371314,Digital Business,4,william.wilson@student.cadt.edu.kh
+932,Srey San,Male,25-10-2001,085895759,Digital Business,4,srey.san@student.cadt.edu.kh
+933,Chanda San,Female,27-05-2001,022856226,Telecommunication and Networking,4,chanda.san@student.cadt.edu.kh
+934,Michael Miller,Male,08-04-2001,013647971,Digital Business,4,michael.miller@student.cadt.edu.kh
+935,Vann Lim,Male,24-01-2001,086667446,Telecommunication and Networking,4,vann.lim@student.cadt.edu.kh
+936,Sok Khiev,Male,23-04-2001,028782532,Digital Business,4,sok.khiev@student.cadt.edu.kh
+937,Chan Khiev,Male,06-02-2001,011894967,Digital Business,4,chan.khiev@student.cadt.edu.kh
+938,Sophia Taylor,Female,26-05-2001,073621481,Computer Science,4,sophia.taylor@student.cadt.edu.kh
+939,John Williams,Male,05-12-2001,066459388,Computer Science,4,john.williams@student.cadt.edu.kh
+940,Isabella Davis,Male,07-09-2001,079517443,Computer Science,4,isabella.davis@student.cadt.edu.kh
+941,Olivia Johnson,Male,29-12-2001,069917477,Digital Business,4,olivia.johnson@student.cadt.edu.kh
+942,John Davis,Female,04-02-2002,021357769,Computer Science,4,john.davis@student.cadt.edu.kh
+943,David Johnson,Female,13-07-2002,088536276,Digital Business,4,david.johnson@student.cadt.edu.kh
+944,Bopha Heng,Male,08-04-2002,067388192,Digital Business,4,bopha.heng@student.cadt.edu.kh
+945,David Wilson,Male,26-11-2001,013768728,Computer Science,4,david.wilson@student.cadt.edu.kh
+946,Raksmey Kim,Male,01-12-2002,025692496,Computer Science,4,raksmey.kim@student.cadt.edu.kh
+947,Mony Kim,Male,09-10-2001,043616457,Computer Science,4,mony.kim@student.cadt.edu.kh
+948,Chan Ly,Female,09-12-2001,078527139,Computer Science,4,chan.ly@student.cadt.edu.kh
+949,Raksmey Khiev,Male,14-11-2002,081212489,Digital Business,4,raksmey.khiev@student.cadt.edu.kh
+950,Bopha Chea,Male,10-10-2001,065753748,Computer Science,4,bopha.chea@student.cadt.edu.kh
+951,Olivia Williams,Male,26-10-2001,097246117,Telecommunication and Networking,4,olivia.williams@student.cadt.edu.kh
+952,Vann Khiev,Female,07-03-2002,065674246,Digital Business,4,vann.khiev@student.cadt.edu.kh
+953,Visal Pheng,Male,01-06-2002,052785351,Telecommunication and Networking,4,visal.pheng@student.cadt.edu.kh
+954,David Williams,Male,30-12-2002,092567564,Computer Science,4,david.williams@student.cadt.edu.kh
+955,Sok Nhim,Female,22-12-2002,091834851,Computer Science,4,sok.nhim@student.cadt.edu.kh
+956,David Taylor,Male,25-12-2001,068358414,Digital Business,4,david.taylor@student.cadt.edu.kh
+957,David Miller,Male,28-10-2002,099516745,Telecommunication and Networking,4,david.miller@student.cadt.edu.kh
+958,Michael Davis,Female,04-03-2001,057791247,Digital Business,4,michael.davis@student.cadt.edu.kh
+959,Sok Ly,Male,04-05-2002,096571847,Telecommunication and Networking,4,sok.ly@student.cadt.edu.kh
+960,John Johnson,Female,28-08-2002,049879528,Digital Business,4,john.johnson@student.cadt.edu.kh
+961,Sok Lim,Female,06-10-2002,099116439,Telecommunication and Networking,4,sok.lim@student.cadt.edu.kh
+962,Raksmey Pheng,Female,26-06-2001,059975119,Digital Business,4,raksmey.pheng@student.cadt.edu.kh
+963,Mony Khiev,Male,20-07-2001,076154287,Digital Business,4,mony.khiev@student.cadt.edu.kh
+964,James Smith,Male,08-10-2001,019956963,Telecommunication and Networking,4,james.smith@student.cadt.edu.kh
+965,David Johnson,Male,21-05-2001,049577525,Telecommunication and Networking,4,david.johnson@student.cadt.edu.kh
+966,Isabella Taylor,Male,23-08-2001,062345273,Telecommunication and Networking,4,isabella.taylor@student.cadt.edu.kh
+967,Sok Kim,Female,03-01-2002,076948685,Digital Business,4,sok.kim@student.cadt.edu.kh
+968,Olivia Williams,Female,22-11-2002,095749678,Computer Science,4,olivia.williams@student.cadt.edu.kh
+969,Bopha Pheng,Male,08-09-2002,054663893,Telecommunication and Networking,4,bopha.pheng@student.cadt.edu.kh
+970,Raksmey Ly,Male,04-02-2002,092948197,Computer Science,4,raksmey.ly@student.cadt.edu.kh
+971,John Smith,Male,07-01-2002,017797386,Telecommunication and Networking,4,john.smith@student.cadt.edu.kh
+972,John Smith,Male,16-02-2002,067462513,Telecommunication and Networking,4,john.smith@student.cadt.edu.kh
+973,Sophia Miller,Female,17-04-2002,021536587,Computer Science,4,sophia.miller@student.cadt.edu.kh
+974,Vann Pheng,Male,25-02-2002,041257518,Computer Science,4,vann.pheng@student.cadt.edu.kh
+975,James Wilson,Female,09-09-2001,062516676,Computer Science,4,james.wilson@student.cadt.edu.kh
+976,Emily Taylor,Male,27-03-2002,012256993,Telecommunication and Networking,4,emily.taylor@student.cadt.edu.kh
+977,Chanda Rith,Male,25-05-2002,084438886,Digital Business,4,chanda.rith@student.cadt.edu.kh
+978,Dara San,Male,28-04-2001,066339432,Computer Science,4,dara.san@student.cadt.edu.kh
+979,Bopha Rith,Female,25-03-2002,062326678,Telecommunication and Networking,4,bopha.rith@student.cadt.edu.kh
+980,Visal Khiev,Male,31-07-2002,076975862,Digital Business,4,visal.khiev@student.cadt.edu.kh
+981,Vann Rith,Female,30-04-2002,023773339,Computer Science,4,vann.rith@student.cadt.edu.kh
+982,William Brown,Female,16-08-2002,028332452,Digital Business,4,william.brown@student.cadt.edu.kh
+983,Mony Ly,Male,01-10-2002,044743136,Digital Business,4,mony.ly@student.cadt.edu.kh
+984,Isabella Davis,Male,15-08-2002,088955626,Digital Business,4,isabella.davis@student.cadt.edu.kh
+985,John Williams,Male,24-06-2001,047921243,Computer Science,4,john.williams@student.cadt.edu.kh
+986,William Miller,Male,17-05-2002,099474694,Digital Business,4,william.miller@student.cadt.edu.kh
+987,Chan Khiev,Female,06-04-2001,034793674,Telecommunication and Networking,4,chan.khiev@student.cadt.edu.kh
+988,Srey Pheng,Female,18-09-2001,021797535,Computer Science,4,srey.pheng@student.cadt.edu.kh
+989,William Moore,Female,10-04-2002,011283554,Digital Business,4,william.moore@student.cadt.edu.kh
+990,David Wilson,Female,01-02-2002,056653311,Computer Science,4,david.wilson@student.cadt.edu.kh
+991,David Moore,Female,15-02-2001,016871638,Telecommunication and Networking,4,david.moore@student.cadt.edu.kh
+992,Sophia Jones,Female,18-04-2002,053414333,Telecommunication and Networking,4,sophia.jones@student.cadt.edu.kh
+993,Raksmey Pheng,Female,12-08-2002,013877977,Telecommunication and Networking,4,raksmey.pheng@student.cadt.edu.kh
+994,Mony Nhim,Female,15-07-2002,093849248,Telecommunication and Networking,4,mony.nhim@student.cadt.edu.kh
+995,Dara Ly,Female,03-06-2001,054315823,Computer Science,4,dara.ly@student.cadt.edu.kh
+996,Isabella Williams,Male,18-08-2001,016763115,Digital Business,4,isabella.williams@student.cadt.edu.kh
+997,Sok Rith,Female,31-12-2001,045639924,Computer Science,4,sok.rith@student.cadt.edu.kh
+998,William Miller,Female,31-05-2001,071692591,Telecommunication and Networking,4,william.miller@student.cadt.edu.kh
+999,Mony Chea,Female,17-01-2001,067261158,Digital Business,4,mony.chea@student.cadt.edu.kh
+1000,Emily Taylor,Male,01-02-2001,024851764,Digital Business,4,emily.taylor@student.cadt.edu.kh 
+654123,Chetha Navid,Male,11-05-2006,061521512,Computer Science,2,navid.chetha@student.cadt.edu.kh
