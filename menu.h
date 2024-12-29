@@ -40,5 +40,9 @@ void menu() {
     gotoxy((consoleWidth - 70) / 2, menuStartY + 4);
     cout << "5. Search\n";
     gotoxy((consoleWidth) / 2, menuStartY + 4);
+    cout << "6. Fee Manangement\n";
+    gotoxy((consoleWidth - 70) / 2, menuStartY + 6);
+    cout << "7. Exam and result Manangement\n";
+    gotoxy((consoleWidth) / 2, menuStartY + 6);
     cout << "0. Exit\n";
 }
