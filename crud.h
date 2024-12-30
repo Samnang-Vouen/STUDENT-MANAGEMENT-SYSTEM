@@ -309,7 +309,6 @@ class LinkedList {
 
             if (modified) {
                 saveToFile(fileName); // Save the updated list back to the file only if changes were made
-                cout << "\n\t\t\tFile updated successfully." << endl;
             } else {
                 cout << "\n\t\t\tNo changes made to the file." << endl;
             }
