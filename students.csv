@@ -1,6 +1,5 @@
-id,name,gender,dob,phoneNum,major,year,email
-1,Chan Kim,Male,25-01-2005,053789787,Telecommunication and Networking,1,chan.kim@student.cadt.edu.kh
-2,Olivia Taylor,Male,04-02-2005,086346895,Digital Business,1,olivia.taylor@student.cadt.edu.kh
+1,samnang,male,11-66-4444,1255555625,cs,2,navid.samnang@gmail.com
+2,navid,male,11-05-2006,012245632,tn,2,navid.chetha
 3,Sophia Jones,Female,23-02-2005,037772662,Digital Business,1,sophia.jones@student.cadt.edu.kh
 4,Chan Chea,Female,22-04-2005,081861689,Digital Business,1,chan.chea@student.cadt.edu.kh
 5,Srey San,Female,12-06-2005,024751542,Telecommunication and Networking,1,srey.san@student.cadt.edu.kh
@@ -999,4 +998,6 @@ id,name,gender,dob,phoneNum,major,year,email
 998,William Miller,Female,31-05-2001,071692591,Telecommunication and Networking,4,william.miller@student.cadt.edu.kh
 999,Mony Chea,Female,17-01-2001,067261158,Digital Business,4,mony.chea@student.cadt.edu.kh
 1000,Emily Taylor,Male,01-02-2001,024851764,Digital Business,4,emily.taylor@student.cadt.edu.kh 
-654123,Chetha Navid,Male,11-05-2006,061521512,Computer Science,2,navid.chetha@student.cadt.edu.kh
+100265,Chetha Navid,Male,11-05-2006,061521512,Computer Science,2,navid.chetha@student.cadt.edu.kh
+100160,Vouen Samnang,Male,10-12-1999,081976067,Computer Science,2,samnang.vouen@student.cadt.edu.kh
+100190,Tep Somnang,Male,10-05-2004,069280205,Computer Scienece,2,somnang.tep@student.cadt.edu.kh

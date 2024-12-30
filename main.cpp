@@ -10,12 +10,15 @@
 #include "login.h"
 #include "menu.h"
 #include "crud.h"
+#include "fee_exam_management.h"
 
 using namespace std;
+
 int main() {
     char choice;
     LinkedList *list = new LinkedList;
-
+    FeeRecord* feeHead = nullptr;
+    ExamResult* examHead = nullptr;
 
     system("cls");
     simulateLoading();
@@ -24,7 +27,7 @@ int main() {
     while(true) {
         menu();
         cout << "\n\t\t\t\tPlease enter your choice: ";
-        choice = _getch();
+        cin>>choice;
         system("cls");
         switch(choice) {
             case '0':
@@ -42,6 +45,13 @@ int main() {
             case '4':
                 list->removeById();
                 break;
+            case '6':
+                feeManagementMenu(feeHead);
+                break;
+            case '7':
+                loadExamResults(examHead);
+                examResultsMenu(examHead);
+                break;
             case '5':
                 searchMenu(*list);
                 break;
@@ -50,7 +60,7 @@ int main() {
                 break;
         }
         cout << "\n\t\t\t\t\t\t\t\t\tPress Enter to continue...";
-        _getch();
+        cin.ignore();
     }
     simulateLoading();
 }

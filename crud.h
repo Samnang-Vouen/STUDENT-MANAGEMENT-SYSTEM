@@ -110,7 +110,7 @@ class LinkedList {
             Student *current = head;
 
             while(current != NULL) {
-               file << current->id << (",")
+               file << endl << current->id << (",")
                  << current->name << (",")
                  << current->gender << (",")
                  << current->dob << (",")
@@ -140,7 +140,7 @@ class LinkedList {
             fstream file;
             file.open(fileName, ios::in);
             if(!file.is_open()) {
-                cout << "\n\t\t\tError: Unable to open file" << endl;
+                cout << "\n\t\t\t\t\t\t\t\t\tError: Unable to open file" << endl;
                 return;
             }
             string line;
@@ -318,7 +318,7 @@ class LinkedList {
             fstream file;
             file.open(fileName, ios::out);
             if(!file.is_open()) {
-                cout << "\n\t\t\tError: Unable to open file" << endl;
+                cout << "\n\t\t\t\t\t\t\t\t\tError: Unable to open file" << endl;
                 return;
             }
             Student *current = head;
@@ -362,23 +362,19 @@ class LinkedList {
             }
         }
 
-        // Add a new node to the list
-        void addNode(int id, const string& name, const string& gender, const string& dob, const string& phoneNum,
-                    const string& major, int year, const string& email) {
-            Student *newNode = new Student{id, name, gender, dob, phoneNum, major, year, email, true, NULL};
-            if (!head) {
-                head = newNode;
-            } else {
-                Student* temp = head;
-                while (temp->next) {
-                    temp = temp->next;
-                }
-                temp->next = newNode;
-            }
-        }
-
         // Search by ID
-        Student* searchByID(int id) {
+        Student* searchByID() {
+            int id;
+            string fileName;
+            cout << "\n\t\t\t\t\tEnter file you want to display (file name + .csv): ";
+            cin >> fileName;
+            cin.ignore();
+            readDataFromFile(fileName);
+            cout << "\n\t\t\t\t\t\t\t\t\tSearch by ID: ";
+            while (!(cin >> id)) {
+                cin.clear();  // Clear input stream
+                cout << "\n\t\t\t\t\t\t\t\t\tInvalid ID. Please enter a valid numeric ID: ";
+            }
             Student* temp = head;
             while (temp) {
                 if (temp->id == id) {
@@ -389,8 +385,17 @@ class LinkedList {
             return nullptr;
         }
 
-    // Search by name (substring match with multiple results)
-        void searchByName(const string& name) {
+        // Search by name (substring match with multiple results)
+        void searchByName() {
+            string fileName;
+            cout << "\n\t\t\t\t\tEnter file you want to display (file name + .csv): ";
+            cin >> fileName;
+            cin.ignore();
+            readDataFromFile(fileName);
+            string name;
+            cout << "\n\t\t\t\t\t\t\t\t\tSearch by Name: ";
+            cin.ignore();
+            getline(cin, name);
             auto toLower = [](const string& str) {
                 string lowerStr = str;
                 std::transform(lowerStr.begin(), lowerStr.end(), lowerStr.begin(), ::tolower);
@@ -452,52 +457,6 @@ class LinkedList {
         }
 };
 
-// Load data from the CSV file
-void loadData(LinkedList& list) {
-    string filename;
-    cout << "Enter the full path of the file to load: ";
-    getline(cin, filename);
-
-    ifstream file(filename);
-    if (!file.is_open()) {
-        cerr << "Error: Unable to open file " << filename << endl;
-        return;
-    }
-
-    string line, id, name, gender, dob, phoneNum, major, year, email;
-    getline(file, line); // Skip the header line
-
-    while (getline(file, line)) {
-        stringstream ss(line);
-
-        // Extract fields with ',' as the delimiter
-        if (getline(ss, id, ',') && getline(ss, name, ',') && getline(ss, gender, ',') &&
-            getline(ss, dob, ',') && getline(ss, phoneNum, ',') && getline(ss, major, ',') &&
-            getline(ss, year, ',') && getline(ss, email, ',')) {
-
-            try {
-                // Convert id and year to integers
-                int parsedId = stoi(id);
-                int parsedYear = stoi(year);
-
-                // Add a new node to the linked list
-                list.addNode(parsedId, name, gender, dob, phoneNum, major, parsedYear, email);
-
-            } catch (const invalid_argument& e) {
-                cerr << "Error: Invalid number in row: " << line << endl;
-            } catch (const out_of_range& e) {
-                cerr << "Error: Number out of range in row: " << line << endl;
-            }
-
-        } else {
-            cerr << "Error: Malformed line: " << line << endl;
-        }
-    }
-
-    file.close();
-    cout << "\n\t\t\t\t\t\t\t\t\tFile loaded successfully!" << endl;
-}
-
 // Display the search menu
 void searchMenu(LinkedList& list) {
     char choice;
@@ -534,47 +493,29 @@ void searchMenu(LinkedList& list) {
 
         int menuStartY = startY + headerHeight + 3;
 
-        gotoxy((consoleWidth - 40) / 2, menuStartY);
-        cout << "1. Load File" << endl;
+        gotoxy((consoleWidth - 30) / 2, menuStartY);
+        cout << "1. ID" << endl;
         gotoxy((consoleWidth) / 2, menuStartY);
-        cout << "2. Search by ID" << endl;
-        gotoxy((consoleWidth - 40) / 2, menuStartY + 2);
-        cout << "3. Search by Name" << endl;
+        cout << "2. Name" << endl;
         gotoxy((consoleWidth) / 2, menuStartY + 2);
         cout << "0. Exit" << endl;
-        resetColor();
 
-        choice = _getch();
+        cout << "\n\t\t\t\tPlease enter your choice: ";
+        cin>>choice;
         system("cls");
 
         switch (choice) {
             case '1': {
-                gotoxy((consoleWidth - 50) / 2, menuStartY + 4);
-                loadData(list);
-                break;
-            }
-            case '2': {
-                int id;
-                gotoxy((consoleWidth - 50) / 2, menuStartY + 4);
-                cout << "Search by ID: ";
-                while (!(cin >> id)) {
-                    cin.clear();  // Clear input stream
-                    gotoxy((consoleWidth - 50) / 2, menuStartY + 6);
-                    cout << "Invalid ID. Please enter a valid numeric ID: ";
-                }
-                Student* result = list.searchByID(id);
+                Student* result = list.searchByID();
                 system("cls");
+                gotoxy((consoleWidth - 30) / 2, menuStartY - 10);
                 list.displayResult(result);
                 break;
             }
-            case '3': {
-                string name;
-                gotoxy((consoleWidth - 50) / 2, menuStartY + 5);
-                cout << "Search by Name: ";
-                cin.ignore();
-                getline(cin, name);
+            case '2': {
                 system("cls");
-                list.searchByName(name);  // Call the updated searchByName function
+                gotoxy((consoleWidth - 30) / 2, menuStartY - 10);
+                list.searchByName();
                 break;
             }
             case '0': {
@@ -584,7 +525,7 @@ void searchMenu(LinkedList& list) {
                 gotoxy((consoleWidth - 50) / 2, menuStartY + 8);
                 cout << "Invalid choice! Please press a valid option (0-3)." << endl;
         }
-        cout << "\nPress Enter to continue...";
+        cout << "\n\t\t\t\t\t\t\t\t\tPress Enter to continue...";
         _getch();  // Wait for any key to continue
     }
 }

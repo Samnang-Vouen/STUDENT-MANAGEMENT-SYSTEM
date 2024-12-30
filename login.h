@@ -95,11 +95,11 @@ inline void getUserCredentials() {
             resetConsoleColor();
             system("cls");
         } else {
-            cerr << "Error: Unable to open file to save credentials." << endl;
+            cerr << "\n\t\t\t\t\t\t\t\t\tError: Unable to open file to save credentials." << endl;
         }
     } else {
         gotoxy(inputX, displayY + 2);
-        cout << "Invalid password!" << endl;
+        cout << "\n\t\t\t\t\t\t\t\t\tInvalid password!" << endl;
     }
 }
 
